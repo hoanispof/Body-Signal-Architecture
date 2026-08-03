@@ -1175,10 +1175,10 @@ date: 2026-07-28
   🟢 Farmer et al. 2021 (taVNS clinical applications review)
 ```
 
-### §4.5 — Facial Therapy (Diện Chẩn) and Trigeminal-Vagal Coupling
+### §4.5 — Facial Stimulation and Trigeminal-Vagal Coupling
 
 ```
-🟢🟡 TRIGEMINAL → VAGAL COUPLING — FACIAL REFLEXOLOGY MECHANISM:
+🟢🟡 TRIGEMINAL → VAGAL COUPLING — FACIAL STIMULATION MECHANISM:
 
   THE CONNECTION:
     → CN V (trigeminal) provides sensory innervation of ENTIRE face
@@ -1201,7 +1201,7 @@ date: 2026-07-28
     → Oculocardiac reflex: pressure on eyeball (V1) → vagal → bradycardia
     → = Multiple reflexes demonstrate trigeminal-vagal coupling
 
-  DIỆN CHẨN IMPLICATION:
+  FACIAL STIMULATION IMPLICATION:
     → Facial acupressure/stimulation at specific points →
     → Trigeminal afferent → brainstem → parasympathetic shift
     → Different facial zones (V1, V2, V3) may preferentially
@@ -1211,7 +1211,7 @@ date: 2026-07-28
     → See A07 §1.7 (facial somatotopy) for detailed V1/V2/V3 mapping
 
   🟢 Borsook et al. 2004 (trigeminal nociceptive pathways)
-  🟡 Framework: trigeminal-vagal coupling as mechanism for diện chẩn
+  🟡 Framework: trigeminal-vagal coupling as mechanism for facial stimulation therapies
 ```
 
 ### §4.6 — Spinal Manipulation and ANS: Somatoautonomic Proximity [RC#5]

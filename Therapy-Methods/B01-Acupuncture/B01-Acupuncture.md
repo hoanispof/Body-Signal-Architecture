@@ -1367,8 +1367,9 @@ DATA — 6 DIAGNOSTIC FRAMEWORKS:
     Developed by Bui Quoc Chau (Bùi Quốc Châu, 1980, Ho Chi Minh City)
     Multiple overlapping face maps (reported 20+ maps)
     Non-invasive: uses blunt tools, pressure, NOT needles
-    → Will be covered in detail in B05
-    🟡 Vietnamese clinical use, minimal Western RCT evidence
+    🟡 Vietnamese clinical use, minimal Western RCT evidence.
+    Retired from Track B (~0 RCTs; method expanded beyond
+    facial reflexology, contradicting core premise).
 
   ABDOMINAL ACUPUNCTURE (腹针, Bo Zhiyun 薄智云):
     "Turtle diagram" — maps body onto abdomen around umbilicus
@@ -3754,8 +3755,6 @@ to adjacent therapies.
   B02 — Acupressure: same points, different stimulus (pressure vs
     needle). B01 §5 mechanisms partially apply (L1 different:
     no tissue penetration → no fascial winding, no DAMPs).
-  B05 — Dien Chan: facial reflexology uses similar microsystem
-    concept but non-invasive tools (→ §3.3 Other Microsystems).
   B07 — Cupping: can be combined with acupuncture (sliding cupping
     at acupoints). Different L1 mechanism (suction vs needle).
   B08 — Moxibustion: traditionally paired with acupuncture (UNESCO:

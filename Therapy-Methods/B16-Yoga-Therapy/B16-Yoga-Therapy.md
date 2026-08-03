@@ -1351,7 +1351,7 @@ TRACK B EVIDENCE RANKING (updated with B16):
     B02 Acupressure, B04 Deep-Tissue, B07 Cupping, B08 Moxibustion
 
   TIER 4 — Limited evidence:
-    B05 Dien Chan, B06 Reflexology, B09 Gua Sha
+    B06 Reflexology, B09 Gua Sha
 
   B16 joins B01 and B15 in TIER 1 for evidence volume. However, B16's
   evidence has a DISTINCT pattern: strongest for depression/autonomic

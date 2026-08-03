@@ -350,7 +350,7 @@ date: 2026-07-28
     → Trigeminal spinal nucleus sends projections to
       dorsal motor nucleus of vagus (DMX)
     → = Facial stimulation → parasympathetic activation
-    → = Neuroanatomical basis for diện chẩn (B05)
+    → = Neuroanatomical basis for facial stimulation therapies
     → Diver's reflex: cold water on face (V1) → vagal response
       → bradycardia + peripheral vasoconstriction
 

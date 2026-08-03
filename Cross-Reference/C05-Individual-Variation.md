@@ -18,7 +18,7 @@ C01 established WHAT stimulus types activate WHICH pathways. C03 identified WHIC
 
 **Why does the same therapy, applied with the same technique, at the same location, for the same condition, produce dramatically different results in different people?**
 
-This capstone document answers that question by integrating individual variation data from all 16 Track B §8 sections with the cross-cutting frameworks from C01-C04. It is the FINAL Track C synthesis — every finding in C05 connects back to at least one earlier Track C file.
+This capstone document answers that question by integrating individual variation data from all 15 Track B §8 sections with the cross-cutting frameworks from C01-C04. It is the FINAL Track C synthesis — every finding in C05 connects back to at least one earlier Track C file.
 
 The question matters because inter-individual variation is the single largest obstacle to:
 1. **Clinical prediction** — who will respond to which therapy?
@@ -27,7 +27,7 @@ The question matters because inter-individual variation is the single largest ob
 
 ### §1.2 — Data Sources
 
-- **Individual variation data:** All 16 Track B §8 (Individual Variation & Contraindications) sections, read in full
+- **Individual variation data:** All 15 Track B §8 (Individual Variation & Contraindications) sections, read in full
 - **Responder prediction models:** B01 §8.1 (neuroimaging predictors), B10 §8.3 (clinical prediction rules)
 - **Genetic data:** B01 §8.2 (COMT, GABRB3, OPRM1, BDNF), B03 §8.1 (OXTR, FAAH candidates), B08 §8.3 (TRPV1 variants)
 - **Stimulus parameters:** C01 §3.2 (parameter modifiers — pressure, speed, depth, electrical, body region, skin contact, movement style)
@@ -47,7 +47,7 @@ The question matters because inter-individual variation is the single largest ob
 5. **Demographic** — population-level factors (sex, age, chronicity) that systematically shift response profiles
 6. **Responder Phenotype** — multi-factor models combining domains 1-5 for prediction
 
-**Cross-therapy synthesis.** For each variation source, applicability across all 16 therapies was assessed. A source identified in one therapy (e.g., TRPV1 variants in B08) was evaluated for relevance to other therapies based on mechanism overlap from C03.
+**Cross-therapy synthesis.** For each variation source, applicability across all 15 therapies was assessed. A source identified in one therapy (e.g., TRPV1 variants in B08) was evaluated for relevance to other therapies based on mechanism overlap from C03.
 
 **Evidence assessment.** Each variation factor was classified as:
 - 🟢 **Research-supported** — studied directly in the therapy context with positive findings
@@ -138,9 +138,6 @@ B15        ★★☆☆☆          Positive/negative predictors, style selectio
 B16        ★★☆☆☆          Style selection by patient profile,
                            hypermobility contraindication for Yin,
                            hot yoga heat risk
-
-B05        ★☆☆☆☆          Trigeminal anatomy variation, autonomic
-                           baseline, facial skin sensitivity
 
 B06        ★☆☆☆☆          Practitioner/protocol variation dominant,
                            foot sensitivity, expectation
@@ -303,7 +300,7 @@ This means genetic prediction cannot be simplified to "gene X → therapy Y work
 Gene variant × Therapy modality × Specific condition × Mechanism engaged = Prediction
 ```
 
-This four-way interaction makes genetic prediction research exponentially harder. For B01 alone, with ~4 candidate genes × 3 modalities (manual/EA/auricular) × 8+ conditions = ~96 possible interactions to test. Across all 16 therapies, the combinatorial space is enormous. 🟡
+This four-way interaction makes genetic prediction research exponentially harder. For B01 alone, with ~4 candidate genes × 3 modalities (manual/EA/auricular) × 8+ conditions = ~96 possible interactions to test. Across all 15 therapies, the combinatorial space is enormous. 🟡
 
 **Implication for clinical translation:** Genetic prediction of therapy response will likely remain condition-specific and modality-specific for the foreseeable future. A "universal responder gene" for body-based therapy does not exist and probably cannot exist, because different therapies engage different mechanisms through different molecular pathways. 🟡
 
@@ -459,11 +456,7 @@ B12        15                ~60-80%                 Somatic near-zero. But
                                                       mechanism, not pure
                                                       scaffolding. 🟡
 
-B05        12                ~50-70%                 Trigeminal territory
-                                                      REAL but 257 BQC points
-                                                      = scaffold. ~0 RCTs. 🔴
-
-B13        13                ~40-60%                 Physical stimulus real
+B13        12                ~40-60%                 Physical stimulus real
                                                       (= B02 mechanisms) but
                                                       Kyo/Jitsu theory and
                                                       Hara diagnosis =
@@ -630,7 +623,7 @@ specific mechanism
 
 #### §3.4.1 — CT Afferent Density
 
-CT (C-tactile) afferents are unmyelinated mechanoreceptors in hairy skin that respond optimally to gentle stroking at 1-10 cm/s. They mediate affective touch → oxytocin pathway (A01 §3, C01 §4.7). CT engagement is relevant to: B02 (light acupressure), B03 (massage), B04 (light techniques), B05 (facial), B13 (but BLOCKED by clothing), B14 (cranial contacts), B15/B16 (self-touch minimal).
+CT (C-tactile) afferents are unmyelinated mechanoreceptors in hairy skin that respond optimally to gentle stroking at 1-10 cm/s. They mediate affective touch → oxytocin pathway (A01 §3, C01 §4.7). CT engagement is relevant to: B02 (light acupressure), B03 (massage), B04 (light techniques), B13 (but BLOCKED by clothing), B14 (cranial contacts), B15/B16 (self-touch minimal).
 
 **Individual variation in CT system:**
 
@@ -727,13 +720,6 @@ CB1/CB2 expression        Fede 2016: CB1/CB2 in fascial     🟡 One study
 ```
 VARIATION SOURCE          EFFECT ON THERAPY RESPONSE         EVIDENCE
 ────────────────────────  ───────────────────────────────── ─────────
-Trigeminal branch         V1/V2/V3 patterns vary →           🟢 B05 §8.3
-pattern (B05)              different response to same        ① — neuro-
-                           facial point stimulation.          anatomy texts
-                           Supraorbital notch vs foramen
-                           = anatomical variant affecting
-                           nerve accessibility.
-
 ABVN distribution         ABVN innervation of ear concha     🟡 B02 §8.1
 (B02 auricular)            varies between individuals →       ⑤ — anatomy
                            optimal ear seed placement         variation
@@ -771,11 +757,11 @@ Mast cell density         Varies by body region and           🟡 B11 §8.1
 
 #### §3.4.4 — The Autonomic Baseline Effect
 
-Multiple Track B files independently identified autonomic baseline as a variation source (B03 §8.1 ③, B05 §8.3 ②):
+Multiple Track B files independently identified autonomic baseline as a variation source (B03 §8.1 ③):
 
 **Individuals with higher baseline sympathetic tone → GREATER parasympathetic shift response to therapy.** Individuals already parasympathetic-dominant → CEILING EFFECT.
 
-This has cross-therapy implications because parasympathetic shift is a Tier 1 universal mechanism (C03 §3.2: ≥10/16 therapies). Every body-based therapy produces SOME parasympathetic shift — but the magnitude depends on where the patient starts. Chronically stressed patients (high sympathetic) show the LARGEST measurable changes, which partially explains why:
+This has cross-therapy implications because parasympathetic shift is a Tier 1 universal mechanism (C03 §3.2: ≥10/15 therapies). Every body-based therapy produces SOME parasympathetic shift — but the magnitude depends on where the patient starts. Chronically stressed patients (high sympathetic) show the LARGEST measurable changes, which partially explains why:
 - Cortisol reduction appears largest in stressed populations (regression to mean, B03 §9.3 Moyer)
 - HRV improvement is more dramatic in anxiety patients
 - "Relaxation" therapies (B06, B14) produce measurable autonomic changes despite minimal specific mechanisms — because their patients seek them BECAUSE they are stressed (self-selection → large baseline → large shift)
@@ -1119,7 +1105,7 @@ The LESS specific, the MORE expectations dominate.
                           EXPECTATION CONTRIBUTION
   HIGH ──────────────────────────────────────────── LOW
   │                                                  │
-  B14  B06  B12  B05  B13  B02  B03  B15  B16  B11  B07  B10  B09  B04  B08  B01
+  B14  B06  B12  B13  B02  B03  B15  B16  B11  B07  B10  B09  B04  B08  B01
   │                                                  │
   LOW ──────────────────────────────────────────── HIGH
                      MECHANISM SPECIFICITY
@@ -1209,7 +1195,7 @@ Each prediction is 🔴 Hypothesis unless noted.
 
 ### §6.2 — Missing Data
 
-1. **Genetic data for 15/16 therapies.** Only B01 has genetic predictor data. The entire cross-therapy genetic analysis is extrapolation.
+1. **Genetic data for 14/15 therapies.** Only B01 has genetic predictor data. The entire cross-therapy genetic analysis is extrapolation.
 
 2. **Dose-response optimization for all therapies.** Optimal session parameters (pressure, frequency, duration, total course) are unknown for essentially all Track B therapies. Without dose-response data, we cannot determine whether negative trials reflect inadequate dosing or true inefficacy.
 
@@ -1243,7 +1229,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 **Q7. Can the active-therapy adherence problem be solved?** B15/B16 are among the most effective therapies but only work with sustained practice. Can technology (apps, gamification, wearables), social structures (group classes, accountability partners), or clinical psychology (motivational interviewing, habit formation) reliably improve adherence enough to increase population-level effectiveness?
 
-**Q8 (CAPSTONE). Can a unified responder prediction system work across therapies?** The ultimate goal: given a patient profile (genetics + anatomy + psychology + demographics + condition), predict which of the 16 Track B therapies will produce the best outcome for THAT specific patient. This requires: (a) the multi-factor model (§3.6.2) validated for each therapy, (b) cross-therapy genetic predictors confirmed (Q1), (c) dose-response optimization completed (§3.2.4). Current status: far from achievable but the FRAMEWORK exists in this document.
+**Q8 (CAPSTONE). Can a unified responder prediction system work across therapies?** The ultimate goal: given a patient profile (genetics + anatomy + psychology + demographics + condition), predict which of the 15 Track B therapies will produce the best outcome for THAT specific patient. This requires: (a) the multi-factor model (§3.6.2) validated for each therapy, (b) cross-therapy genetic predictors confirmed (Q1), (c) dose-response optimization completed (§3.2.4). Current status: far from achievable but the FRAMEWORK exists in this document.
 
 ---
 
@@ -1265,7 +1251,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 ### §8.2 — Track B Files Referenced
 
-All 16 Track B §8 sections were read in full. Key contributions by therapy:
+All 15 Track B §8 sections were read in full. Key contributions by therapy:
 
 | Therapy | Key §8 Contribution to C05 |
 |---------|---------------------------|
@@ -1273,7 +1259,6 @@ All 16 Track B §8 sections were read in full. Key contributions by therapy:
 | B02 | Point location accuracy (self vs practitioner), pressure calibration, OXTR hypothesis, ABVN anatomy variation |
 | B03 | CT afferent density variation, autonomic baseline, genetic candidates (OXTR, FAAH untested) |
 | B04 | Fascial thickness (sex), endocannabinoid system-fascia CB1/CB2, hydration, sex hormones (ERα), practitioner skill |
-| B05 | Trigeminal anatomy variation, autonomic baseline ceiling effect |
 | B06 | Practitioner/protocol variation, expectation dominance, no standardized protocol |
 | B07 | Capillary fragility, mark response variability (same protocol → different marks = tissue pathology indicator) |
 | B08 | TRPV1 genetic variation (heat threshold), disease-state TRPV1 sensitization (PGE2) |
@@ -1292,7 +1277,7 @@ All 16 Track B §8 sections were read in full. Key contributions by therapy:
 
 - **C02 → C05:** C02's Active-Passive Divide (§4.3) explains why active vs passive therapies have fundamentally different variation structures (§4.3 Adherence Divide). The sham paradox 3-layer model (C02 §4.6) becomes the basis for understanding how expectations modulate each layer differently per patient (§3.3.4). C02's condition-therapy matrix provides the outcome data against which responder predictions can eventually be tested.
 
-- **C03 → C05:** C03's specificity spectrum (§3.5) is the backbone of the expectation-specificity inverse (§4.5). C03's scaffolding analysis (§3.4) provides the framework for the scaffolding contribution gradient (§3.3.2). C03's universal mechanisms (Tier 1, ≥10/16) explain the non-specific floor that makes ALL patients respond somewhat. C03's unique mechanisms (15 therapy-exclusive) create the biological variation dimensions studied in §3.1 (genetics) and §3.4 (anatomy).
+- **C03 → C05:** C03's specificity spectrum (§3.5) is the backbone of the expectation-specificity inverse (§4.5). C03's scaffolding analysis (§3.4) provides the framework for the scaffolding contribution gradient (§3.3.2). C03's universal mechanisms (Tier 1, ≥10/15) explain the non-specific floor that makes ALL patients respond somewhat. C03's unique mechanisms (15 therapy-exclusive) create the biological variation dimensions studied in §3.1 (genetics) and §3.4 (anatomy).
 
 - **C04 → C05:** C04's body region hierarchy explains regional variation in response (face > ear > foot). C04's dynamic acupoint phenomenon (Kim 2017, §4.3) reframes individual variation as a FEATURE: the "right" treatment location varies by patient and disease state, not just by anatomy. PROKR2 expression variation (C04 §3.4, P4) connects to genetic variation in §3.1 and anatomical variation in §3.4.3.
 

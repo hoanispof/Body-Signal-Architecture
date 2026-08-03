@@ -254,7 +254,6 @@ VALUE without having mechanistic VALIDITY" (C03 §3.4.1).
 | B14 Craniosacral | PURE scaffolding | CSR detection r=0.004 (CONTRADICTED) |
 | B06 Reflexology | Near-pure | Zone-organ reflexes UNSUPPORTED |
 | B12 EFT | High | "Energy disruption" UNSUPPORTED (Spielmans 2020) |
-| B05 Dien Chan | Partial | 257 BQC UNVALIDATED, but CN V is REAL |
 | B13 Shiatsu | Partial | Kyo/Jitsu UNVALIDATED, physical stimulus real |
 | B10 Chiropractic | Mixed | Subluxation UNSUPPORTED (WFC 2019), but HVLA real |
 | B01 Acupuncture | Low | TCM meridian = scaffolding, but PROKR2/adenosine = real |
@@ -303,7 +302,6 @@ THERAPY          EVAL GATES %     EVIDENCE FOR SPECIFIC MECHANISM
 B14 Craniosacral  ~80-95%         ALL stated mechanisms CONTRADICTED
 B06 Reflexology   ~70-90%         Zone theory UNSUPPORTED (Ernst 2009)
 B12 EFT           ~60-80%         Somatic near-zero, cognitive real (CBT)
-B05 Dien Chan      ~50-70%        BQC UNVALIDATED, CN V real
 B13 Shiatsu       ~40-65%         Framework UNVALIDATED, physical real
 B02 Acupressure   ~35-55%         Limited point specificity evidence
 B03 Massage       ~25-40%         CT, endocannabinoid system, gate control all real
@@ -329,7 +327,7 @@ expectations. The LESS specific, the MORE expectations dominate" (C05 §4.5).
 
 ```
 HIGH EXPECTATION CONTRIBUTION              LOW EXPECTATION CONTRIBUTION
-B14, B06, B12 ... B05, B13 ... B02, B03 ... B09, B04 ... B08, B01
+B14, B06, B12 ... B13 ... B02, B03 ... B09, B04 ... B08, B01
 ──────────────────────────────────────────────────────────────────→
          ← Mechanism specificity INCREASES →
 ```

@@ -26,19 +26,19 @@ Three subsidiary questions follow:
 
 2. **Do different body regions provide different pathway access?** Face (CN V → brainstem) vs ear (ABVN → vagal) vs foot (L4-S3 spinal) — does REGION predict therapeutic potential independently of stimulus type?
 
-3. **What is the relationship between claimed precision and validated precision?** Some therapies claim 257 specific points (B05) while lacking any validation; others claim no point specificity (B03) while using well-validated regional anatomy. Is there a pattern?
+3. **What is the relationship between claimed precision and validated precision?** Some therapies claim detailed organ zones (B06) while lacking any validation; others claim no point specificity (B03) while using well-validated regional anatomy. Is there a pattern?
 
 ### §1.2 — Data Sources
 
 - **Location systems:** A07 (Dermatome-Somatotopic Map — segmental convergence, Head zones, Kim 2017 neurogenic spots), A09 (Meridian Examination — 7 candidate substrates, composite substrate assessment)
-- **Application points/areas:** All 16 Track B §3 sections, read in full
+- **Application points/areas:** All 15 Track B §3 sections, read in full
 - **Stimulus context:** C01 (Stimulus-Pathway-Matrix — body region parameter modifier §3.2.5, CT afferent pattern §4.7)
 - **Scaffolding context:** C03 (Common-Mechanisms — scaffolding analysis §3.4, specificity spectrum §3.5)
 - **System definitions:** Track A files A01-A06, A08
 
 ### §1.3 — Methodology
 
-**Location classification.** Each of the 16 therapies was classified on a Location Specificity Spectrum based on: (a) whether the therapy CLAIMS location matters, (b) the EVIDENCE level for that claim, and (c) the MECHANISM by which location might matter.
+**Location classification.** Each of the 15 therapies was classified on a Location Specificity Spectrum based on: (a) whether the therapy CLAIMS location matters, (b) the EVIDENCE level for that claim, and (c) the MECHANISM by which location might matter.
 
 **Evidence hierarchy construction.** Location-specificity evidence was ranked by: molecular/causal evidence > anatomical correlation > clinical trials > traditional mapping > no evidence.
 
@@ -93,11 +93,11 @@ SPECIFICITY      │   1-in-5-billion match     │   CT afferent zones 🟢  �
                  │ B08: acupoints + TRPV1     │ B10: segmental but      │
                  │   heat-sensitivity 🟡      │   palpation κ=0.02 🔴   │
                  ├───────────────────────────┼─────────────────────────┤
-          LOW    │ B05: 257 BQC points 🔴    │ B07: area-based, HO-1   │
-VALIDATED        │ B06: Ingham zones 🔴      │   not point-dependent 🟢│
-SPECIFICITY      │ B12: 9 fixed points 🔴    │ B09: area-based, fascial│
-                 │ B14: CSR points 🔴        │   shear 🟢               │
-                 │ B13: Hara zones 🔴        │ B15/B16: no points,     │
+          LOW    │ B06: Ingham zones 🔴      │ B07: area-based, HO-1   │
+VALIDATED        │ B12: 9 fixed points 🔴    │   not point-dependent 🟢│
+SPECIFICITY      │ B14: CSR points 🔴        │ B09: area-based, fascial│
+                 │ B13: Hara zones 🔴        │   shear 🟢               │
+                 │                            │ B15/B16: no points,     │
                  │                            │   whole-body 🟢          │
                  └───────────────────────────┴─────────────────────────┘
 ```
@@ -110,7 +110,7 @@ SPECIFICITY      │ B12: 9 fixed points 🔴    │ B09: area-based, fascial│
 
 ### §3.1 — Location-Dependent vs Location-Independent: The Full Spectrum
 
-All 16 therapies ranked from most to least location-dependent, with evidence for each classification:
+All 15 therapies ranked from most to least location-dependent, with evidence for each classification:
 
 ```
 RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
@@ -163,15 +163,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      neurophysiological → precise
                                                      targeting less critical.
 
- 6    B05 Dien Chan        CLAIMED POINT-SPECIFIC    257 BQC points + 30+ projection
-                            but REGION-VALIDATED      maps UNVALIDATED 🔴. BUT CN V
-                            🟡                        trigeminal territory (V1/V2/V3)
-                                                     IS validated 🟢. 3 broad zones,
-                                                     not 257 specific organ-point
-                                                     connections. Trigeminal-vagal
-                                                     coupling works at ZONE level.
-
- 7    B04 Deep Tissue      STRUCTURE-SPECIFIC 🟢     Targets fascial planes, trigger points,
+ 6    B04 Deep Tissue      STRUCTURE-SPECIFIC 🟢     Targets fascial planes, trigger points,
                                                      areas of restriction by
                                                      palpation. Stecco FM CC/CF
                                                      points = most anatomically
@@ -181,7 +173,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      evidence for treating along
                                                      lines vs individual structures.
 
- 8    B13 Shiatsu          PATTERN-SPECIFIC 🟡/🔴    Namikoshi: 660 anatomical tsubos
+ 7    B13 Shiatsu          PATTERN-SPECIFIC 🟡/🔴    Namikoshi: 660 anatomical tsubos
                                                      (same locations as acupoints,
                                                      Western naming). Masunaga:
                                                      reactive points along extended
@@ -191,7 +183,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      specificity matters less —
                                                      breadth over depth (C03 §4.2).
 
- 9    B03 Massage          REGION-SPECIFIC 🟢         Area-based, NOT point-based.
+ 8    B03 Massage          REGION-SPECIFIC 🟢         Area-based, NOT point-based.
       General                                        BUT regional specificity IS
                                                      validated: back dermatome→organ
                                                      mapping, abdomen→ENS access,
@@ -200,7 +192,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      (hairy vs glabrous) determines
                                                      receptor availability.
 
-10    B07 Cupping          AREA-BASED 🟢              Cups cover 700-5,000 mm² (vs
+ 9    B07 Cupping          AREA-BASED 🟢              Cups cover 700-5,000 mm² (vs
                                                      needle 0.05 mm²). TCM back-shu
                                                      vs Islamic sunnah = two
                                                      tradition-specific systems that
@@ -209,7 +201,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      = area-dependent, NOT point-
                                                      dependent. Any region works.
 
-11    B09 Gua Sha          AREA-BASED 🟢              Strokes across regions along
+10    B09 Gua Sha          AREA-BASED 🟢              Strokes across regions along
                                                      fascial planes. Location matters
                                                      at REGIONAL level (which body
                                                      area has relevant pathology).
@@ -219,7 +211,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      categorically different (no sha,
                                                      no HO-1).
 
-12    B06 Reflexology      CLAIMED POINT-SPECIFIC    Detailed Ingham foot map claims
+11    B06 Reflexology      CLAIMED POINT-SPECIFIC    Detailed Ingham foot map claims
                             but UNVALIDATED 🔴        organ-zone correspondence. ~80%
                                                      of claimed zones have NO
                                                      neuroanatomical basis (L4-S3 ≠
@@ -229,7 +221,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      scaffolding. Actual mechanism =
                                                      general foot massage.
 
-13    B12 EFT Tapping      FIXED POINTS,             9 fixed points tapped every
+12    B12 EFT Tapping      FIXED POINTS,             9 fixed points tapped every
                             NO SPECIFICITY 🔴         round regardless of condition.
                                                      NO condition-specific point
                                                      selection. 56% facial = CN V
@@ -238,7 +230,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      Spielmans 2020: sham tapping ≈
                                                      real tapping (p=0.12 NS).
 
-14    B14 Craniosacral     NO POINT SYSTEM 🔴         Broad diffuse hand contact on
+13    B14 Craniosacral     NO POINT SYSTEM 🔴         Broad diffuse hand contact on
                                                      cranial bones. NO codified
                                                      points. CSR detection
                                                      reliability r=0.004 (Moran &
@@ -248,7 +240,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      finding. LIGHTEST touch, LEAST
                                                      specificity, WEAKEST rationale.
 
-15    B15 Tai Chi/Qigong   LOCATION-INDEPENDENT 🟢   NO application points. Whole-
+14    B15 Tai Chi/Qigong   LOCATION-INDEPENDENT 🟢   NO application points. Whole-
                                                      body engagement. Region matters
                                                      for LOADING (knees, hips) not
                                                      for therapeutic targeting.
@@ -256,7 +248,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      (each sound targets organ) =
                                                      UNVALIDATED, parallel to B06.
 
-16    B16 Yoga             LOCATION-INDEPENDENT 🟢   NO application points. Region-
+15    B16 Yoga             LOCATION-INDEPENDENT 🟢   NO application points. Region-
                                                      dependent by style/pose (forward
                                                      folds→posterior chain, twists→
                                                      spinal, inversions→vascular).
@@ -265,7 +257,7 @@ RANK  THERAPY              LOCATION STATUS          EVIDENCE SUMMARY
                                                      = UNVALIDATED.
 ```
 
-🟡 Ranking derived from all 16 Track B §3 sections, cross-referenced with A07 segmental evidence and A09 substrate assessment.
+🟡 Ranking derived from all 15 Track B §3 sections, cross-referenced with A07 segmental evidence and A09 substrate assessment.
 
 ### §3.2 — Validated Location Systems
 
@@ -368,17 +360,11 @@ Electrical        Lower skin resistance (some studies), explained by
 
 ### §3.3 — Unvalidated Location Maps
 
-Seven location systems CLAIM point-specific organ correspondences but LACK validated neuroanatomical mechanisms. These are analyzed here for evidence status and relationship to therapeutic scaffolding (C03 §3.4).
+Six location systems CLAIM point-specific organ correspondences but LACK validated neuroanatomical mechanisms. These are analyzed here for evidence status and relationship to therapeutic scaffolding (C03 §3.4).
 
 #### §3.3.1 — BQC 257 Facial Points (B05 Dien Chan) 🔴
 
-**System:** 257 numbered points (BQC 0-256) on the face, codified by Bùi Quốc Châu through clinical observation (~1980). 30+ simultaneous projection diagrams mapped onto the same facial surface (organs on face, spine on nose, inverted body, upright body, yin-yang map, etc.).
-
-**Evidence status:** NO published validation studies exist. No electrical impedance measurements, no correlation with neuroanatomical landmarks, no inter-rater reliability studies. Contrasts sharply with acupoints (50+ years of research, PROKR2 molecular basis).
-
-**What IS validated:** The face is innervated by CN V (trigeminal) with 3 divisions (V1/V2/V3). Trigeminal sensory nuclei project to DMN (vagal), NTS (autonomic hub), LC (norepinephrine), DRN (serotonin). This = real brainstem pathway. eTNS at V1 territory is FDA-approved for migraine + ADHD = validates the NERVE TERRITORY, not the 257-point system.
-
-**Assessment:** Neuroanatomy supports 3 BROAD ZONES (V1/V2/V3), NOT 257 specific organ connections. Any systematic facial stimulation activates the trigeminal-vagal pathway regardless of which specific BQC points are used. The elaborate 257-point system with 30+ projection maps is therapeutic SCAFFOLDING — it provides protocol structure, practitioner confidence, and patient narrative without mechanistic precision. 🟢 for 3-zone trigeminal; 🔴 for 257-point organ-specific mapping. B05 §3.1-§3.3.
+> **B05 RETIRED** — Dien Chan moved to _backup/ (2026-08-03). ~0 RCTs, method expanded beyond face. Facial stimulation mechanisms covered by A02, B01, B02, B03.
 
 #### §3.3.2 — Ingham Foot Zones (B06 Reflexology) 🔴
 
@@ -427,19 +413,17 @@ Seven location systems CLAIM point-specific organ correspondences but LACK valid
 
 **System:** Qigong (Liu Zi Jue): 6 specific sounds each claimed to target a different organ (liver/heart/spleen/lung/kidney/triple heater). Qigong (Wuqinxi): 5 animal mimicry movements each claimed to target a different organ system. Yoga: 7 chakras as energy centers corresponding to endocrine glands/organs along the spine; 72,000 nadis as energy channels.
 
-**Evidence status:** BROAD physiological effects of Tai Chi/Qigong and yoga are well-supported (B15/B16 §4). SPECIFIC organ-targeting claims for individual sounds/movements/chakras lack scientific evidence. These parallel the zone-specificity claims of B06 reflexology and point-specificity claims of B05 Dien Chan.
+**Evidence status:** BROAD physiological effects of Tai Chi/Qigong and yoga are well-supported (B15/B16 §4). SPECIFIC organ-targeting claims for individual sounds/movements/chakras lack scientific evidence. These parallel the zone-specificity claims of B06 reflexology.
 
 **Assessment:** Like other unvalidated location maps, the organ-specific claims in movement therapies serve as SCAFFOLDING — providing structure and meaning to practice sessions. The therapeutic effects arise from exercise physiology, breathing, and neuroplasticity (C03 §3.6 Pattern 5), not from organ-specific targeting by specific movements or sounds. 🔴 B15 §3.2, B16 §3.1.
 
 #### §3.3.7 — The Scaffolding-Map Pattern
 
-All seven unvalidated location maps share a common structure (C03 §3.4):
+All six unvalidated location maps share a common structure (C03 §3.4):
 
 ```
 UNVALIDATED MAP        SCAFFOLDING FUNCTION              WHAT ACTUALLY WORKS
 ─────────────────────  ──────────────────────────────── ─────────────────────────
-BQC 257 points         Protocol for systematic facial    Trigeminal-vagal via
-                       stimulation + patient narrative    ANY facial stimulation
 Ingham foot zones      Protocol for systematic foot      General foot massage +
                        coverage + organ narrative        gate control + relaxation
 Hara 12 zones          Meridian selection protocol +     Palpation detects real
@@ -523,7 +507,7 @@ RANK  EVIDENCE TYPE                 CONFIDENCE  STATUS
                                                  require dedicated channel.
 
  11   Unvalidated location maps      🔴          NO evidence for organ-point
-      (BQC, Ingham, Hara, CSR,                   specificity in any of these
+      (Ingham, Hara, CSR,                        specificity in any of these
       Sunnah, Chakra)                            systems. All serve as
                                                  therapeutic scaffolding.
 ```
@@ -545,11 +529,11 @@ The SAME stimulus type produces DIFFERENT effects depending on WHERE on the body
 
 **What makes face UNIQUE:** Direct brainstem access WITHOUT spinal relay. Face stimulation triggers SUPRASPINAL effects (vagal, NE, 5-HT) immediately, not via segmental convergence. The diver's reflex demonstrates this: cold water on face (V1) → vagal bradycardia + peripheral vasoconstriction — a pure trigeminal-vagal reflex.
 
-**Clinical validation:** eTNS (Cefaly device) at V1 territory is FDA-approved for migraine prevention and ADHD. Same nerve territory as B05 Dien Chan facial stimulation.
+**Clinical validation:** eTNS (Cefaly device) at V1 territory is FDA-approved for migraine prevention and ADHD.
 
-**Therapies accessing this region:** B05 (PRIMARY — face is the ONLY target), B12 (56% of points on face), B14 (forehead/temporal contacts), B03 (facial massage variant), B01 (facial acupoints).
+**Therapies accessing this region:** B12 (56% of points on face), B14 (forehead/temporal contacts), B03 (facial massage variant), B01 (facial acupoints).
 
-**Confidence:** 🟢 — well-established neuroanatomy. B05 §3.3, A07 §1.7.
+**Confidence:** 🟢 — well-established neuroanatomy. A07 §1.7.
 
 #### §3.5.2 — Ear: ABVN → Vagal Direct Access
 
@@ -640,7 +624,7 @@ Foot sole       L4-S3 only, NO special             LOWEST
                 pathway, NO CT afferents
 ```
 
-🟡 Hierarchy derived from neuroanatomical evidence across A07, A09, and all 16 Track B §3 sections.
+🟡 Hierarchy derived from neuroanatomical evidence across A07, A09, and all 15 Track B §3 sections.
 
 ---
 
@@ -655,8 +639,6 @@ Therapies claiming the HIGHEST location precision often have the WEAKEST validat
 ```
 THERAPY    CLAIMED PRECISION     VALIDATION           PARADOX
 ─────────  ────────────────────  ────────────────────  ────────────────────
-B05        257 points + 30 maps  🔴 ZERO validation    Highest claim,
-                                                       weakest evidence
 B06        Detailed organ zones  🔴 ~80% refuted       Elaborate map,
                                                        no basis
 B14        CSR detection points  🔴 r=0.004            Specific diagnosis,
@@ -669,7 +651,7 @@ B04        "Where tissue is      🟢 trigger point + fascial      Low claim,
            restricted"              planes              solid anatomy
 ```
 
-**The pattern:** Precision is CLAIMED in inverse proportion to evidence quality for B05/B06/B14 (the scaffolding cluster from C03 §3.4). Elaborate point systems substitute for empirical validation. Conversely, B03/B04 practitioners make modest claims ("treat the tight area") but their targeting is guided by validated anatomy (dermatomes, trigger point overlap, fascial planes).
+**The pattern:** Precision is CLAIMED in inverse proportion to evidence quality for B06/B14 (the scaffolding cluster from C03 §3.4). Elaborate point systems substitute for empirical validation. Conversely, B03/B04 practitioners make modest claims ("treat the tight area") but their targeting is guided by validated anatomy (dermatomes, trigger point overlap, fascial planes).
 
 **Exception:** B01 acupuncture claims HIGH precision AND has HIGH validation — the 361-point system is both elaborate AND neuroanatomically grounded. This makes B01 the ONLY therapy where the traditional location system matches modern anatomy. 🟡
 
@@ -726,7 +708,7 @@ Sustained point pressure at:
 This explains why B02 acupressure at P6 (wrist, median nerve → vagal) has Cochrane-level evidence (NNT≈4 for PONV) while B06 reflexology at "stomach zone" (foot sole, L4-S3 → no GI connection) has no condition-specific evidence. SAME stimulus type, SAME pressure, DIFFERENT region → DIFFERENT pathway access → DIFFERENT clinical evidence.
 
 **The face-ear-foot triangle:** Three body regions with reflexology/microsystem traditions show this hierarchy most starkly:
-- Face (B05): CN V → brainstem DIRECT → eTNS FDA-approved = REAL pathway access despite unvalidated map
+- Face: CN V → brainstem DIRECT → eTNS FDA-approved = REAL pathway access
 - Ear (B01/B02 auricular): ABVN → NTS → vagal DIRECT → taVNS validated = REAL pathway access
 - Foot (B06): L4-S3 → spinal only → NO special pathway = MINIMAL pathway access with unvalidated map
 
@@ -740,11 +722,11 @@ Combining C03's scaffolding analysis with C04's location specificity evidence re
                 MORE SCAFFOLDING ────────────────────── LESS SCAFFOLDING
                 (elaborate unvalidated location map)    (no special map needed)
 
-B14 ──── B06 ──── B05 ──── B12 ──── B13 ──── B03 ──── B07 ──── B01 ──── B15
-PURE     NEAR     PARTIAL  FIXED    HARA     AREA     AREA     VALIDATED  NO
-SCAFFOLD PURE     (3-zone  POINTS   UNVAL    BASED    BASED    POINTS    POINTS
-(CSR)    (zone    real,    (no                                  (PROKR2)
-          refuted) 257 not) specif.)
+B14 ──── B06 ──── B12 ──── B13 ──── B03 ──── B07 ──── B01 ──── B15
+PURE     NEAR     FIXED    HARA     AREA     AREA     VALIDATED  NO
+SCAFFOLD PURE     POINTS   UNVAL    BASED    BASED    POINTS    POINTS
+(CSR)    (zone    (no                                  (PROKR2)
+          refuted) specif.)
 ```
 
 Therapies that NEED elaborate location maps to justify their treatment protocol tend to be those whose specific mechanisms are weakest. Therapies with strong specific mechanisms (B01 PROKR2, B07 HO-1, B15 exercise physiology) either have VALIDATED location systems or don't need one.
@@ -797,12 +779,12 @@ Relaxation response          NO — ubiquitous         Any sustained touch/warmt
 
 Each prediction is 🔴 Hypothesis unless noted.
 
-### P1 — Facial Stimulation at ANY Point ≈ BQC-Specific Points for Autonomic Outcomes
+### P1 — Facial Stimulation at ANY Point ≈ Point-Specific Facial Stimulation for Autonomic Outcomes
 
-**Prediction:** Structured facial stimulation at randomly selected facial points should produce equivalent autonomic outcomes (HRV, blood pressure, anxiety) to Dien Chan at BQC-prescribed points, because the trigeminal-vagal pathway operates at the ZONE level (V1/V2/V3), not the 257-point level.
+**Prediction:** Structured facial stimulation at randomly selected facial points should produce equivalent autonomic outcomes (HRV, blood pressure, anxiety) to protocol-prescribed facial points, because the trigeminal-vagal pathway operates at the ZONE level (V1/V2/V3), not at individual-point level.
 
-**Confirm:** Randomized sham-Dien Chan study (same tools, same duration, random facial points vs BQC-prescribed points) shows no significant outcome difference for autonomic measures (HRV, BP, anxiety scales).
-**Refute:** BQC-prescribed points significantly outperform random facial stimulation for ≥2 autonomic outcomes with p<0.01, suggesting point specificity beyond trigeminal zone effects.
+**Confirm:** Randomized study (same tools, same duration, random facial points vs prescribed points) shows no significant outcome difference for autonomic measures (HRV, BP, anxiety scales).
+**Refute:** Prescribed points significantly outperform random facial stimulation for ≥2 autonomic outcomes with p<0.01, suggesting point specificity beyond trigeminal zone effects.
 
 ### P2 — Foot Reflexology = Foot Massage for All Outcomes
 
@@ -851,7 +833,7 @@ Note: This prediction duplicates C03 P4 (Shiatsu natural experiment) but adds th
 
 2. **Region comparison confounded by skin type.** Face vs foot comparison is confounded by MULTIPLE differences (nerve territory, skin type, receptor density, cultural meaning) — isolating the contribution of neural pathway access alone is difficult.
 
-3. **Validated/unvalidated distinction is binary but reality is continuous.** Some "unvalidated" location systems may contain PARTIAL validity masked by overall system invalidity. BQC's 257 points may include a subset at genuine trigeminal branch points — but without validation research, we cannot distinguish valid from invalid subsets.
+3. **Validated/unvalidated distinction is binary but reality is continuous.** Some "unvalidated" location systems may contain PARTIAL validity masked by overall system invalidity. A detailed point map may include a subset at genuine nerve branch points — but without validation research, we cannot distinguish valid from invalid subsets.
 
 4. **Evidence hierarchy is based on current evidence, not inherent importance.** PROKR2 ranks highest because it has the most rigorous evidence (Nature 2021, causal ablation). Other location mechanisms may be equally important but less studied (interstitial fluid channels, dynamic acupoint biology).
 
@@ -861,7 +843,7 @@ Note: This prediction duplicates C03 P4 (Shiatsu natural experiment) but adds th
 
 1. **PROKR2 distribution in humans.** Liu 2021 data is from mice. Whether human PROKR2+ neuron distribution matches the murine pattern is assumed but not confirmed.
 
-2. **No head-to-head region comparison trials.** No RCT has tested the SAME therapy at DIFFERENT body regions to isolate the region contribution. All existing evidence is cross-therapy (comparing B05 face therapy to B06 foot therapy confounds region with therapy).
+2. **No head-to-head region comparison trials.** No RCT has tested the SAME therapy at DIFFERENT body regions to isolate the region contribution. All existing evidence is cross-therapy (comparing a face therapy to B06 foot therapy confounds region with therapy).
 
 3. **Hara diagnosis reliability unknown.** Unlike CSR (r=0.004) and chiropractic palpation (κ=0.02-0.42), Hara diagnosis has NEVER been formally tested for inter-rater reliability.
 
@@ -869,7 +851,7 @@ Note: This prediction duplicates C03 P4 (Shiatsu natural experiment) but adds th
 
 5. **BL67 breech mechanism unresolved.** The most mechanistically puzzling location-specific finding in all of Track B: BL67 at S1 dermatome has NO known connection to uterine function (T10-L1, S2-S4), yet Cardini 1998 JAMA (n=260, 75.4% vs 47.7%) provides the strongest single-point clinical evidence. This finding CANNOT be explained by ANY current location-specificity model.
 
-6. **No systematic test of unvalidated maps.** None of the 7 unvalidated location maps (§3.3) has been tested with a proper sham design that preserves SCAFFOLDING while randomizing LOCATION. This design would isolate the location contribution from the scaffolding contribution.
+6. **No systematic test of unvalidated maps.** None of the 6 unvalidated location maps (§3.3) has been tested with a proper sham design that preserves SCAFFOLDING while randomizing LOCATION. This design would isolate the location contribution from the scaffolding contribution.
 
 ---
 
@@ -887,7 +869,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 **Q5. What fraction of location-specific clinical effects survives rigorous sham control?** Network meta-analyses (A09 §4.2) show verum acupuncture ≈ sham at same points but > sham at non-indicated points. This suggests location matters MODESTLY but not dramatically. What is the SMD attributable to LOCATION ALONE (controlling for stimulus type, duration, depth, and therapeutic context)? No study has isolated the location variable with sufficient rigor.
 
-**Q6. Can the scaffolding-location maps be salvaged?** For BQC (B05), Ingham (B06), and Hara (B13): is there a SUBSET of points within each system that corresponds to validated anatomy, embedded within a larger system of unvalidated points? If so, the valid subset could be extracted, validated, and used — while acknowledging the rest as scaffolding. This "extraction and validation" approach would be more productive than wholesale acceptance or rejection.
+**Q6. Can the scaffolding-location maps be salvaged?** For Ingham (B06) and Hara (B13): is there a SUBSET of points within each system that corresponds to validated anatomy, embedded within a larger system of unvalidated points? If so, the valid subset could be extracted, validated, and used — while acknowledging the rest as scaffolding. This "extraction and validation" approach would be more productive than wholesale acceptance or rejection.
 
 **Q7. Does location matter for non-specific mechanisms?** Gate control, relaxation response, and Evaluative Gates are classified as location-INDEPENDENT (§4.7). But is this entirely true? Does gate control at a painful region provide more relief than gate control at a non-painful region (likely yes — segmental gating)? Does relaxation response differ by body region (possible — facial relaxation triggers diving reflex)? The "location-independent" classification may need refinement.
 
@@ -913,7 +895,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 ### §8.2 — Track B Files Referenced
 
-All 16 Track B files referenced via §3 (Application Points & Areas), specifically:
+All 15 Track B files referenced via §3 (Application Points & Areas), specifically:
 
 **Point-specific therapies (§3 data most relevant):**
 - B01 §3: 361 acupoints (8 categories), point selection logic, microsystems, PROKR2 at ST36
@@ -930,7 +912,6 @@ All 16 Track B files referenced via §3 (Application Points & Areas), specifical
 - B13 §3: Namikoshi 660 tsubos vs Masunaga reactive points, Hara diagnosis unvalidated
 
 **Unvalidated location maps:**
-- B05 §3: 257 BQC points, 30+ projection maps, trigeminal territory real but maps unvalidated
 - B06 §3: Ingham foot zones, ~80% no neuroanatomical basis, CT afferents absent from sole
 - B12 §3: 9 fixed points, no condition-specific variation, 56% facial/trigeminal
 - B14 §3: No point system, CSR r=0.004, myodural bridge only specific finding

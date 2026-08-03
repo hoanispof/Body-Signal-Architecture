@@ -171,7 +171,7 @@ signaling, musculoskeletal — all process below PFC awareness. 🟡
 Body-Signal-Architecture Track B confirms that ALL body therapies work within Zone D, but in TWO
 distinct modes (27 references across 12 Track B files):
 
-**Mode 1 — Zone D as Operating Territory** (B01-B06, B13, B14):
+**Mode 1 — Zone D as Operating Territory** (B01-B04, B06, B13, B14):
 Manual/touch therapies produce effects at hardware level where PFC reach ≈ 0.
 Touch, pressure, needling = effects that "cannot be replicated by cognitive
 intervention alone" (B01, B03, B04).
@@ -366,7 +366,7 @@ sub-regions to specific therapy mechanisms:
 | Mechanism | Therapies | Evidence |
 |---|---|---|
 | Gate control (Aβ → dorsal horn) | B01, B02, B03, B04, B10, B11 | C01 §2 (universal mechanism, 12/16 therapies) |
-| Somatovisceral reflex | B01, B02, B05, B08 | C04 §8.4 (pure Zone D, spinal level) |
+| Somatovisceral reflex | B01, B02, B08 | C04 §8.4 (pure Zone D, spinal level) |
 | Descending modulation relay | B01, B04, B10, B11 | C03 §2 (PAG-NRM pathway) |
 | Proprioceptive reset | B10, B15, B16 | B10 §5 (Pickar 2002, spindle burst) |
 | Motor reflex patterns | B15, B16 | B15 §5 (motor learning), B16 §5 |
@@ -375,8 +375,8 @@ sub-regions to specific therapy mechanisms:
 | Mechanism | Therapies | Evidence |
 |---|---|---|
 | Parasympathetic shift | ALL 16 therapies (universal) | C03 §2 (7 universal mechanisms) |
-| Somatoautonomic reflex | B01 (PROKR2), B02, B05, B08, B10 | A02 §4.6-4.9 |
-| Vagal anti-inflammatory | B01 (EA), B02 (auricular ABVN), B05 (CN V) | A05 §2.4, C03 §2 |
+| Somatoautonomic reflex | B01 (PROKR2), B02, B08, B10 | A02 §4.6-4.9 |
+| Vagal anti-inflammatory | B01 (EA), B02 (auricular ABVN) | A05 §2.4, C03 §2 |
 | Voluntary ANS access | B15, B16 ONLY | A02 §3.7 (Zone D Bridge) |
 
 **ENTERIC Zone D** (gut processing, microbiome, 5-HT):
@@ -651,7 +651,7 @@ ZONE D PROCESSING HIERARCHY:
   Level 2 — BRAINSTEM INTEGRATION (vagal, NTS, PAG-NRM)
     PFC reach: minimal (breathing bridge exception)
     Processing: multi-system integration, descending modulation
-    Therapy examples: descending modulation (B01/B04), trigeminal-vagal (B05)
+    Therapy examples: descending modulation (B01/B04)
     Timescale: seconds to minutes
 
   Level 3 — AUTONOMIC NETWORK (ANS balance, cardiac, enteric)
@@ -876,8 +876,8 @@ points: if Zone D trigeminal-vagal reflex is the mechanism, trigeminal-targeted
 tapping will outperform non-trigeminal tapping.
 - Confirm: trigeminal-point EFT > non-trigeminal-point EFT for autonomic measures
 - Refute: equivalent outcomes regardless of tapping location
-- Rationale: CN V → brainstem → vagal = direct Zone D pathway (B05 trigeminal
-  gateway model). If EFT works via Zone D, the LOCATION of tapping matters.
+- Rationale: CN V → brainstem → vagal = direct Zone D pathway (C04 §3.5).
+  If EFT works via Zone D, the LOCATION of tapping matters.
 
 ---
 
@@ -986,7 +986,6 @@ compared to calming-only training, this has implications for therapy design.
 - B02 §11 (CT afferents + Direct-State Reward in Zone D)
 - B03 §11 (massage = purest Direct-State in Zone D)
 - B04 §11 (deep tissue effects in Zone D, cannot replicate cognitively)
-- B05 §11 (trigeminal-vagal = automatic Zone D reflex)
 - B06 §11 (Zone D therapy with highest Evaluative dependence)
 - B12 §11 (UNIQUE dual-zone: cognitive Zone A-B + potential autonomic Zone D)
 - B13 §11 (standard Zone D manual therapy)

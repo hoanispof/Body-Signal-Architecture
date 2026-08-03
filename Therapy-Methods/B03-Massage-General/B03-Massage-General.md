@@ -771,7 +771,6 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │               │ Shirodhara: continuous oil stream on forehead —          │
   │               │ trigeminal stimulation + thermal.                        │
   │               │                                                         │
-  │               │ Dien Chan (B05): face-based reflexology system.         │
   │               │ Auricular region: ABVN = vagal surface access           │
   │               │ (A02 §4.4 — only place vagus reaches skin).             │
   ├──────────────┼───────────────────────────────────────────────────────────┤
@@ -3039,9 +3038,6 @@ NOTE ON MASSAGE vs ACUPUNCTURE EVIDENCE:
     → §7.2 boundary table. B03 Level 4 → B04 territory.
     → Crane 2012 mechanotransduction: foundational for both.
     → B04 will detail Rolfing, structural integration, trigger point protocols.
-
-  B05 (Dien Chan — Facial Reflexology):
-    → §3.2 head/face region. Trigeminal-vagal pathway shared.
 
   B06 (Reflexology):
     → §3.2 feet/hands. Glabrous skin: no CT afferents.

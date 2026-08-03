@@ -5,7 +5,7 @@ version: 1.0
 status: COMPLETE
 scope: Bridge Human-Predictive-Drive Interoception (Body-Base L1 #17 META KEYSTONE, Self-Observation 7-level gradient, Body-Knowing Inward, Somatic-Articulation Loop) to Body-Signal-Architecture body therapy data — how therapies systematically train the capacity to READ body signals
 hpd_sources: [Body-Base.md §5.2 (L1 #17), Self-Observation.md §4 (7-level gradient)/§5 (individual variation), Body-Knowing.md §5-§6 (Inward/feeling literacy), Somatic-Articulation-Loop.md §3-§5 (7-stage loop/Gendlin), 01-Foundation.md §5.4-§5.6 (interoception detail)]
-bsa_sources: [C01-Stimulus-Pathway-Matrix, C02-Condition-Response-Map, C03-Common-Mechanisms, C04-Location-Specificity-Map, C05-Individual-Variation, A01-PNS, A02-ANS, A03-Fascia, A08-MSK, A09-Meridian, B01-B05/B13-B16 (therapy-specific), D01-D04 (all Track D)]
+bsa_sources: [C01-Stimulus-Pathway-Matrix, C02-Condition-Response-Map, C03-Common-Mechanisms, C04-Location-Specificity-Map, C05-Individual-Variation, A01-PNS, A02-ANS, A03-Fascia, A08-MSK, A09-Meridian, B01-B04/B13-B16 (therapy-specific), D01-D04 (all Track D)]
 dependencies: [D01, D02, D03, D04] — CAPSTONE, depends ALL Track D
 confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 ---
@@ -404,11 +404,6 @@ therapies. Organized by DEGREE of interoceptive engagement:
 - PASSIVE: practitioner-guided rather than self-generated (B14 §8.4)
 - 🟡 B14 §5.7/§8.4
 
-*B05 Dien Chan* — Face-focused body scan variant
-- "Interoceptive attention: focusing attention on facial sensations.
-  Mindfulness-like directed attention component" (B05 §5.5)
-- 🟡 B05 §5.5
-
 **Tier 3: INCIDENTAL Training (interoception as by-product)**
 
 *B01 Acupuncture* — De Qi as interoceptive exercise
@@ -605,7 +600,7 @@ Tier  Therapy Type           Body-Signal-Architecture Examples         Interocep
                              B13 Shiatsu
 
 3     Passive Guided         B14 Craniosacral     DIRECTED — practitioner 2-3
-      Attention              B05 Dien Chan        guides attention to    (Body-Recognize
+      Attention                                   guides attention to    (Body-Recognize
                                                   internal sensations    → Body-Predict)
 
 4     Active Embodied        B15 Tai Chi/Qigong   SYSTEMATIC — patient   3-5
@@ -722,9 +717,6 @@ B03      CT (primary)        Incidental  Sensibility     Cortical map
 B04      Fascial (deep)      Incidental  Sensibility     Rolfing claims
          + proprioceptive    (multi-     (tissue         only 🔴
                              session)     awareness)
-
-B05      CT (facial)         Directed    Sensibility     Face-focused
-                                         (facial)        body scan 🟡
 
 B06      CT (foot)           None        —               No interoception
                                                          reference
@@ -1349,7 +1341,6 @@ answers for different populations.
 | B02 Acupressure | "Finding the tender spot" = interoceptive attention. Self-admin bridge |
 | B03 Massage | CT → interoceptive signal. Cortical map normalization |
 | B04 Deep Tissue | Rolfing interoceptive claims. Limited evidence |
-| B05 Dien Chan | Face-focused body scan variant |
 | B12 EFT | Tapping prevents dissociation (somatic anchor) |
 | B13 Shiatsu | Practitioner-side interoception (diagnostic touch) |
 | B14 Craniosacral | Interoceptive Attention Shift. Passive guided. Haller RCT body awareness |

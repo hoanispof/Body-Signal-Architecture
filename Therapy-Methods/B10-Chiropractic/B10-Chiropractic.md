@@ -1431,7 +1431,7 @@ particularly the spine, through manual adjustment/manipulation.
     → Differentiates from B01/B11
 
   ❌ TRIGEMINAL PATHWAY (for spinal SMT):
-    → Cervical SMT: NO trigeminal input (unlike B05 Dien Chan)
+    → Cervical SMT: NO trigeminal input
     → BUT: TMJ adjustment would activate V3 division
 
   ✅ WHAT B10 DOES ACTIVATE (summary):

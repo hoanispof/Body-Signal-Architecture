@@ -349,7 +349,7 @@ body regions or physiological systems: 🟡
 
 **Note:** The organ-specific claims in traditional Qigong (each movement/sound targets
 a specific organ) parallel the zone-specificity claims in B06 (reflexology) and the
-point-specificity claims in B05 (Dien Chan). The same scientific skepticism applies:
+point-specificity claims in other microsystem therapies. The same scientific skepticism applies:
 the BROAD physiological effects of these practices are well-supported; the SPECIFIC
 organ-targeting claims lack evidence. See A09 for meridian substrate assessment.
 
@@ -983,7 +983,6 @@ B01 Acupnct   ███  ███  ██   ██   ██   ███  ██
 B02 Acupress  ███  ██   ██   █    ██   ██   ██   ██   ██   A01
 B03 Massage   ███  ██   ██   ██   ██   ██   █    ███  █    A01/A08
 B04 Deep Tiss ███  ██   ████ ██   ██   ███  █    ███  █    A03
-B05 Dien Chan ██   ██   █    █    █    █    ███  █    █    A07 (trigem)
 B06 Reflexlgy ██   █    █    █    █    █    █    █    █    A01 (weak)
 B07 Cupping   ██   █    ██   ████ ██   █    █    █    █    A04
 B08 Moxibustn ███  ██   █    ███  ██   ██   ███  █    ██   A01/A04
@@ -1266,7 +1265,6 @@ EVIDENCE QUALITY RANKING — Track B Therapies:
 
   TIER 4 — Limited evidence:
     B06 Reflexology (Ernst 2009: "not convincingly effective")
-    B05 Dien Chan (~0 RCTs)
 
   B15 ranks in TIER 1 for evidence VOLUME, but the HIGH-certainty
   evidence covers fewer conditions than B01 (acupuncture).

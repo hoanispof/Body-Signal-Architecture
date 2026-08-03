@@ -5,7 +5,7 @@ status: COMPLETE
 date: 2026-08-01
 role: "HOW IT WORKS" — Unified mechanism framework from stimulus to therapeutic effect
 analogous_to: Human-Predictive-Drive Core-Software.md (brain-side processing architecture)
-prerequisites: ALL 35 files (Track A 9, Track B 16, Track C 5, Track D 5) + Core-Body-Architecture
+prerequisites: ALL 34 files (Track A 9, Track B 15, Track C 5, Track D 5) + Core-Body-Architecture
 confidence: 🟢 Research support | 🟡 Synthesis | 🔴 Hypothesis
 language: English (content), Vietnamese (plan/notes)
 ---
@@ -24,7 +24,7 @@ language: English (content), Vietnamese (plan/notes)
   - §3.4 Evaluative Modulation
   - §3.5 Interoception Integration
 - §4 — UNIFIED THERAPY ARCHITECTURE
-  - §4.1 The 16-Therapy Unified Profile
+  - §4.1 The 15-Therapy Unified Profile
   - §4.2 Condition-Therapy Matching
   - §4.3 Individual Variation
 - §5 — EMERGENT ARCHITECTURE
@@ -59,7 +59,7 @@ Core-Therapy-Architecture →  "HOW IT WORKS"  →  the operating manual
 - **Not the hardware map.** WHAT infrastructure exists and WHERE
   → Core-Body-Architecture.md
 - **Not individual therapy detail.** Each therapy's full data
-  → Track B files (B01-B16)
+  → Track B files (B01-B16, excl. B05)
 - **Not evidence review.** Clinical evidence hierarchy
   → C02-Condition-Response-Map.md
 - **Not prescription.** Which therapy for which condition requires
@@ -133,7 +133,7 @@ THE THERAPEUTIC PROCESS — FROM STIMULUS TO EFFECT
 │                                                                      │
 │  10 stimulus types → 9 body systems activated simultaneously         │
 │  Force DIRECTION > magnitude. Pressure = PATHWAY SELECTOR.           │
-│  15/16 therapies mechanical. B15/B16 = patient IS the source.       │
+│  14/15 therapies mechanical. B15/B16 = patient IS the source.       │
 │                                                                      │
 │  <5N CT/oxytocin → 5-40N gate control → 40-65N endocannabinoid system →               │
 │  65-110N descending mod → >110N full cascade                        │
@@ -243,7 +243,7 @@ Body therapy accesses both — this is its architectural distinction. 🟡
 
 ### §2.1 The Framework
 
-All 51 mechanisms identified across 16 therapies can be organized on
+All 51 mechanisms identified across 15 therapies can be organized on
 two axes (from C03): spatial scale (WHERE in the body) × mechanism
 domain (WHICH body system). This reconciles every therapy-specific
 mechanism model into one unified landscape.
@@ -287,7 +287,6 @@ identity (C01 §4.1):
 
 ```
 B01 Acupuncture:  enters L1 (needle → local tissue) → cascades through ALL levels
-B05 Dien Chan:    enters L3 (CN V → brainstem DIRECT shortcut)
 B10 Chiropractic: enters L1-L2 (proprioceptive burst, <200ms)
 B12 EFT:          enters L6 (cognitive protocol FIRST → somatic secondary)
 B15/B16 Active:   enters L1+L3 simultaneously (movement + breathing)
@@ -409,14 +408,14 @@ clinically relevant (transient effects only). 🟢
 #### §3.1.1 Ten Stimulus Types
 
 The body's signaling infrastructure (Core-Body-Architecture) responds
-to 10 distinct stimulus types, identified across 16 therapies. Each
+to 10 distinct stimulus types, identified across 15 therapies. Each
 type produces a distinctive system-activation fingerprint (C01 §4.1):
 
 ```
 TYPE                THERAPIES    DOMINANT FINGERPRINT       KEY PARAMETER
 ──────────────────  ──────────── ──────────────────────── ──────────────
 1. Penetration      B01, B11     Neural-Chemical (A01+A06) Depth 5-50mm
-2. Sustained Point  B02,B05,B06  Neural-Convergence        Force 5-80N
+2. Sustained Point  B02,B06      Neural-Convergence        Force 5-80N
    Pressure         B13,B14      (A01+A07)
 3. General Pressure B03          Neural-Immune (A01+A05)   Speed 1-30cm/s
 4. Deep Pressure    B04          Fascial-endocannabinoid system (A03+A06)     Time under load
@@ -431,7 +430,7 @@ TYPE                THERAPIES    DOMINANT FINGERPRINT       KEY PARAMETER
     Movement                     (A02+A08)
 ```
 
-15 of 16 therapies use MECHANICAL primary stimulus. Only B08
+14 of 15 therapies use MECHANICAL primary stimulus. Only B08
 (moxibustion) is purely thermal. Electrical stimulation (EA, TENS)
 is a PARAMETER MODIFIER, not a separate stimulus type — it adds
 frequency-dependent opioid modulation (Han: 2Hz = enkephalin,
@@ -678,7 +677,7 @@ LEVEL   NAME              PFC REACH        THERAPY EXAMPLES
                            output only)     somatovisceral (B01/B02)
 
   2     BRAINSTEM          Minimal          Descending modulation,
-        INTEGRATION        (breathing       trigeminal-vagal (B05)
+        INTEGRATION        (breathing       trigeminal-vagal
                             exception)
 
   3     AUTONOMIC          Via breathing    Parasympathetic shift
@@ -823,7 +822,7 @@ effects across such a wide range of conditions — the hardware floor
 ensures universal baseline benefit while the software economy allows
 condition-specific and culturally-adapted enhancement. 🟡
 
-#### §3.3.6 The 16-Therapy Classification
+#### §3.3.6 The 15-Therapy Classification
 
 Every therapy occupies a position on the Direct-State / Evaluative
 spectrum (D03 §4.2). The ratio varies ~8× from B03 (~75% Direct-State) to
@@ -831,8 +830,8 @@ B14 (~10% Direct-State):
 
 ```
 DIRECT-STATE DOMINANT                              EVALUATIVE DOMINANT
-B03  B08  B16  B15  B04  B09  B07  B10  B01  B02  B11  B05  B13  B06  B12  B14
-~75% ─────────────────── ~50% ──────────────────── ~30% ──────────────── ~10%
+B03  B08  B16  B15  B04  B09  B07  B10  B01  B02  B11  B13  B06  B12  B14
+~75% ─────────────────── ~50% ──────────────────── ~30% ─────────────── ~10%
 
 Key findings:
 • EVERY therapy has SOME Direct-State (any physical contact →
@@ -979,7 +978,6 @@ The scaffolding contribution varies by therapy (C05 §3.3.2):
 B14 Craniosacral  ~80-95%   ALL mechanisms CONTRADICTED
 B06 Reflexology   ~70-90%   Zone theory UNSUPPORTED
 B12 EFT           ~60-80%   "Energy disruption" UNSUPPORTED
-B05 Dien Chan     ~50-70%   BQC UNVALIDATED, CN V territory real
   ⋮                          (gradient continues)
 B04 Deep Tissue   ~15-25%   endocannabinoid system-fascia chain 🟢
 B01 Acupuncture   ~15-30%   PROKR2/adenosine/Han 🟢
@@ -1136,7 +1134,7 @@ TIER   TRAINING MODE         THERAPIES              SELF-OBS CEILING
        draws attention
        inward)
 
-  3    DIRECTED (practitioner B14, B05              2-3 Body-Recognize /
+  3    DIRECTED (practitioner B14                    2-3 Body-Recognize /
        guides attention to                          Body-Predict
        internal sensations)
 
@@ -1288,7 +1286,7 @@ This section flips the lens: how do the 16 THERAPIES map onto that
 process? What does each therapy access, and how do individual
 differences modify the therapeutic equation?
 
-### §4.1 The 16-Therapy Unified Profile
+### §4.1 The 15-Therapy Unified Profile
 
 Each therapy occupies a unique position defined by six dimensions
 extracted from §2-§3 and Tracks B-D:
@@ -1302,7 +1300,6 @@ B01 Acu   ~45/55     Tier 1    PROKR2, Han opioid,      Pain + autonomic    2   
 B02 Acu-P ~35/65     Tier 2    (retained B01 subset)    Anti-nausea + anx   2        Depth
 B03 Mass  ~75/25     Tier 1    (none exclusive)         Pain + relaxation   2        Breadth
 B04 Deep  ~60/40     Tier 2    endocannabinoid system-fascia chain         MSK pain            2        Depth
-B05 Dien  ~30/70     Tier 5    CN V shortcut (partial)  Unknown (~0 RCTs)   3        Specif.
 B06 Refl  ~15/85     Tier 4    (none — scaffold)        Relaxation          1        Breadth
 B07 Cup   ~55/45     Tier 3    HO-1 vascular            Pain only           1        Specif.
 B08 Moxa  ~50/50     Tier 3    TRPV1 hub, HSP, thermal  Breech + pain       1        Specif.
@@ -1348,7 +1345,7 @@ Acq. Strat. = acquisition strategy from §2.3 (Depth/Breadth/Specificity).
 
 ### §4.2 Condition-Therapy Matching
 
-The C02 main matrix (~30 conditions × 16 therapies) reveals a matching
+The C02 main matrix (~30 conditions × 15 therapies) reveals a matching
 principle: the strongest therapy-condition pairs occur when the therapy's
 UNIQUE mechanisms match the condition's dominant pathophysiology.
 
@@ -1589,7 +1586,7 @@ architectural needs. 🟡
 - The independent convergence of body sites across 5 traditions
 
 **With moderate confidence (🟡):**
-- The Direct-State/Evaluative spectrum across 16 therapies
+- The Direct-State/Evaluative spectrum across 15 therapies
 - Pressure as pathway selector (thresholds estimated, not measured)
 - Gate leverage gradient (structural explanation for expectation-specificity
   inverse)
@@ -1746,11 +1743,11 @@ reflecting gate compilation. (D04 P4)
 
 ```
 TRACK A (Body Systems): A01-A09, all 9 files
-TRACK B (Therapy Methods): B01-B16, all 16 files
+TRACK B (Therapy Methods): B01-B16 (excl. B05), all 15 files
 TRACK C (Cross-Reference): C01-C05, all 5 files
 TRACK D (Bridge Human-Predictive-Drive): D01-D05, all 5 files
 CORE: Core-Body-Architecture.md
-TOTAL: 36 files synthesized
+TOTAL: 35 files synthesized
 ```
 
 ### §8.2 Human-Predictive-Drive Connection Points
@@ -1775,7 +1772,7 @@ This file's unique contributions not found in any source file:
 
 1. **The Complete 5-Stage Process Flow** (§1.2) — first presentation
    connecting all 5 D-track files into one sequential process
-2. **The 16-Therapy Unified Profile** (§4.1) — first table combining
+2. **The 15-Therapy Unified Profile** (§4.1) — first table combining
    Direct-State ratio, evidence tier, unique mechanisms, home domain,
    interoception tier, and acquisition strategy
 3. **The Sham Paradox 3-Layer Resolution** (§4.2) — quantified

@@ -423,9 +423,9 @@ date: 2026-07-31
   │    → Visceral referred pain to abdominal wall IS neuroanatomically     │
   │      supported (A07 §2.2 Head zones, viscerocutaneous reflexes)        │
   │    → BUT: Masunaga's specific 12-zone mapping = UNVALIDATED            │
-  │    → Parallel to B06 Ingham foot map and B05 BQC face map —           │
-  │      zone systems that MAY detect real tissue changes but attribute    │
-  │      them to unvalidated organ-zone correspondences                    │
+  │    → Parallel to B06 Ingham foot map — zone systems that MAY           │
+  │      detect real tissue changes but attribute them to unvalidated      │
+  │      organ-zone correspondences                                        │
   │                                                                         │
   │  Inter-rater reliability of Hara diagnosis: UNKNOWN                    │
   │    → No published reliability studies                                   │
@@ -456,7 +456,7 @@ date: 2026-07-31
   │    → ~10-15 additional studies since 2011                              │
   │    → Total Shiatsu-specific controlled studies: ~10-12                 │
   │    → Compare: B02 acupressure ~642 RCTs; B01 acupuncture ~5,000 RCTs  │
-  │    → Shiatsu has LESS EVIDENCE than B05 Dien Chan or B06 Reflexology  │
+  │    → Shiatsu has LESS EVIDENCE than B06 Reflexology                   │
   │                                                                         │
   │  WHY SO LITTLE EVIDENCE:                                                │
   │    ① Japanese research tradition: clinical observation > RCTs           │
@@ -1123,11 +1123,11 @@ date: 2026-07-31
     TIER 2: B02 (~642 RCTs), B11 (growing), B10 (moderate)
     TIER 3: B07, B08, B04, B15, B16 (moderate-limited)
     TIER 4: B12, B06 (low quality despite volume)
-    TIER 5: B05, B13, B14 (very limited)
+    TIER 5: B13, B14 (very limited)
 
     B13 Shiatsu = TIER 5 evidence quality.
-    Among the WEAKEST evidence bases in Track B, alongside B05 (Dien Chan)
-    and B14 (Craniosacral).
+    Among the WEAKEST evidence bases in Track B, alongside
+    B14 (Craniosacral).
 
   🟢 Evidence assessment: based on published systematic reviews
 ```
@@ -1173,13 +1173,6 @@ date: 2026-07-31
   │    → No industry funding for Shiatsu research                         │
   │    → Professional organizations have limited research budgets         │
   │                                                                         │
-  │  COMPARISON TO B05 DIEN CHAN:                                           │
-  │    Both B05 and B13 have sparse evidence for SIMILAR reasons:          │
-  │    → B05: geopolitical isolation (post-Vietnam War) + language barrier │
-  │    → B13: cultural research tradition + language barrier               │
-  │    → Both: no commercial driver + difficult to standardize            │
-  │    → KEY DIFFERENCE: B13 has government recognition (Japan 1964)      │
-  │      while B05 has none. Recognition did NOT drive research.          │
   └──────────────────────────────────────────────────────────────────────────┘
 
   🟡 Structural analysis: our synthesis of evidence landscape
@@ -1417,7 +1410,7 @@ date: 2026-07-31
     → No direct comparison studies
 
   B12 (EFT):
-    → B12 §11: lists B13 in TIER 5 evidence alongside B05 and B14
+    → B12 §11: lists B13 in TIER 5 evidence alongside B14
     → Both use acupoints but different stimulus (tapping vs sustained)
 
   B15 (Tai Chi):

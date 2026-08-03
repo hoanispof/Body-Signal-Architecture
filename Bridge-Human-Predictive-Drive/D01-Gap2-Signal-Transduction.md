@@ -450,9 +450,8 @@ thalamic routes:
 
 Only limb and general body stimulation follow the classical thalamic pathway.
 This means Human-Predictive-Drive's SG-2.2 describes the DEFAULT route but not the FULL routing
-architecture. Body therapy exploits non-thalamic routes extensively — facial
-acupuncture (B05 CN V), auricular acupressure (B02 ABVN), abdominal palpation
-(B13 ENS).
+architecture. Body therapy exploits non-thalamic routes extensively — auricular
+acupressure (B02 ABVN), abdominal palpation (B13 ENS).
 
 **Implication for Human-Predictive-Drive:** Neural-Processing-Flow.md may need to acknowledge
 non-thalamic processing routes as PARALLEL gateways, not exceptions.
@@ -748,7 +747,7 @@ not the full MOLECULAR level (specific ion channel isoforms, post-translational
 modifications). Still abstracted relative to molecular neuroscience standards.
 
 **L4.** Clinical evidence quality varies across Body-Signal-Architecture data: Tier 1 (B01, B03, B15,
-B16) → Tier 5 (B05, B13, B14). Bridge analysis inherits these quality gradients.
+B16) → Tier 5 (B13, B14). Bridge analysis inherits these quality gradients.
 
 **L5.** Parallel pathway integration (Challenge 1) is identified but not
 resolved. HOW multiple simultaneous streams merge — or whether they remain

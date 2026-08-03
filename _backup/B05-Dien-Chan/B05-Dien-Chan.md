@@ -1804,3 +1804,109 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   → A07 §1.8 (auricular somatotopy — ear overlap)
   → A05 §4.4 (migraine — trigeminal neurogenic inflammation)
 ```
+
+---
+
+## §12 — RETIREMENT ANALYSIS (2026-08-03)
+
+```
+⚠️ FILE RETIRED — MOVED TO _backup/
+
+REASON FOR RETIREMENT:
+
+This file was retired after analysis revealed that Dien Chan
+(a) has effectively ZERO published clinical evidence (~0 RCTs),
+(b) its own historical development self-contradicts its core premise,
+and (c) all evidence-based facial stimulation content is already
+covered by other Track B and Track A files.
+
+═══════════════════════════════════════════════════════════════════
+FINDING 1 — SELF-CONTRADICTION IN HISTORICAL DEVELOPMENT
+═══════════════════════════════════════════════════════════════════
+
+Original premise (1980): "The face is a living map of the entire body"
+→ only facial stimulation is needed.
+
+But the FOUNDER's own development trajectory contradicts this:
+
+  1980: Face-only, 257 BQC points, mechanical pressure
+  1985: Added MOXIBUSTION (hơ ngải cứu) — heat stimulus,
+        applied primarily on BODY (hands, arms, back, thighs,
+        calves, feet, abdomen, chest) — NOT face
+        → Implicit admission: mechanical facial pressure alone
+          is insufficient
+  1988: Reflection diagrams found on SCALP
+  1989: Reflection diagrams found on ENTIRE BODY
+        → Method renamed to include "VinaMassage"
+        → Explicit admission: face alone is insufficient
+  Modern: Added cào toàn thân (full-body scraping = B09 Gua Sha),
+        úp cốc hơi (cupping = B07), lăn toàn thân (full-body rolling)
+        → Method has become full-body traditional medicine
+          with different branding
+
+IMPLICATION: Modern "Diện Chẩn" in Vietnam is no longer facial
+reflexology — it is a FULL-BODY traditional medicine system that
+uses scraping, heat, pressure, and negative pressure — the same
+modalities already analyzed in B07, B08, B09, B03. The name
+"Diện Chẩn" (facial diagnosis) is now a misnomer.
+
+Sources:
+  → ytesonhuong.com — tiểu sử GS.TSKH Bùi Quốc Châu
+  → dienchanviet.vn — lịch sử phương pháp Diện Chẩn
+  → dungcudienchan.vn — hơ ngải cứu technique (body application)
+  → bloghong.com — tiểu sử khoa học GSTSKH Bùi Quốc Châu
+
+═══════════════════════════════════════════════════════════════════
+FINDING 2 — NEUROANATOMICAL EXPLANATION FOR THE EXPANSION
+═══════════════════════════════════════════════════════════════════
+
+The expansion is predicted by neuroanatomy:
+
+  Face stimulation → CN V (trigeminal) → brainstem
+    → parasympathetic activation (GENERAL autonomic effect)
+    → CAN help: headache, stress, anxiety, nausea
+    → CANNOT help: specific musculoskeletal problems,
+      organ-specific effects, chronic regional pain
+
+  For those, you need:
+    → Segmental spinal pathways (body surface stimulation)
+    → Deeper stimulation (heat, negative pressure)
+    → Local/regional pathways
+
+  The founder intuitively discovered this limitation through
+  clinical experience and responded by adding body-wide
+  techniques — confirming the neuroanatomical prediction.
+
+═══════════════════════════════════════════════════════════════════
+FINDING 3 — ALL VALUABLE CONTENT ALREADY COVERED ELSEWHERE
+═══════════════════════════════════════════════════════════════════
+
+  Trigeminal-vagal coupling    → A02 §4.5 (dedicated section)
+  Facial acupoints (TCM)       → B01 §3.3 (microsystems)
+  Yintang acupressure (5 RCTs) → B02 (PC6, SP6, Yintang profiles)
+  Facial massage               → B03 §3.2 (head/face region)
+  Diving reflex                → A02 (established physiology)
+  eTNS evidence                → A01, A02 cross-references
+  BQC 257 points (🔴)          → C04 §3.3.1 (unvalidated maps)
+  Moxibustion                  → B08 (dedicated file)
+  Scraping/Gua Sha             → B09 (dedicated file)
+  Cupping                      → B07 (dedicated file)
+
+  → No unique evidence-based content is lost by retiring B05.
+
+═══════════════════════════════════════════════════════════════════
+WHAT TO UPDATE IN OTHER FILES
+═══════════════════════════════════════════════════════════════════
+
+  Files referencing B05 should note:
+  "B05 retired — Dien Chan: ~0 RCTs, method expanded beyond face
+   (self-contradicting premise). Facial stimulation mechanisms
+   covered by A02 (trigeminal-vagal), B01/B02 (facial acupoints),
+   B03 (facial massage)."
+
+  Key files to update:
+  → A01, A02, A07 (Track A references to B05)
+  → C01, C02, C03, C04, C05 (Cross-Reference mentions)
+  → Core-Therapy-Architecture.md (therapy list)
+  → Other B-files that compare with B05
+```

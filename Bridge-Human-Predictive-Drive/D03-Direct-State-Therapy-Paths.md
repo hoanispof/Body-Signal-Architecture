@@ -236,7 +236,6 @@ Barrier), and C01 §4.6 (endocannabinoid system Pressure Threshold):
 | B02 Acupressure | YES (if hairy skin) | Mostly static pressure → CT adapts fast | PARTIAL |
 | B03 Massage | YES (STRONG) | Light strokes at 1-10 cm/s on bare skin = ideal CT conditions | CONFIRMED |
 | B04 Deep Tissue/MFR | YES (deep reduces CT) | Deep pressure overrides CT with endocannabinoid system | SHIFTS to endocannabinoid system |
-| B05 Facial | YES (face = hairy skin + CN V unique) | Trigeminal pathway adds parallel channel | PARTIAL + TRIGEMINAL |
 | B06 Reflexology | NO | Foot sole = glabrous skin = CT ABSENT | BLOCKED |
 | B07 Cupping | UNCERTAIN | Negative pressure = not stroking | MINIMAL |
 | B08 Thermal | VARIES | Temperature is separate modality from CT | SEPARATE MODALITY |
@@ -283,7 +282,7 @@ DEPTH LEVEL        FORCE        MECHANISMS ADDED              THERAPIES
 Surface skin       <5N          CT afferents, gate control    B14, B03-light
                                  (Aβ only), oxytocin
 Subcutaneous       5-40N        Somatovisceral reflex,        B02, B03-mod,
-                                 vagal shift, thixotropy       B05, B06, B13
+                                 vagal shift, thixotropy       B06, B13
 Deep fascia        40-65N       endocannabinoid system ACTIVATION (threshold),   B03-deep, B04,
                                  mechanotransduction (Crane)   B01 needle reaches
 Muscle             65-110+N     Descending modulation (PAG),  B04-deep, B03-deep,
@@ -296,7 +295,7 @@ Bone/Joint         N/A          Proprioceptive reset, joint   B10 (HVLA)
 
 ```
 MOST SPECIFIC                                    LEAST SPECIFIC
-B01 → B10 → B04 → B11 → B08 → B03 → B02 → B16 → B15 → B05 → B13 → B09 → B07 → B06 → B12 → B14
+B01 → B10 → B04 → B11 → B08 → B03 → B02 → B16 → B15 → B13 → B09 → B07 → B06 → B12 → B14
 
 Evaluative Gates contribution:
   B01: ~15-30%     B03: ~25-40%     B12: ~70-85%     B14: ~80-95%
@@ -417,7 +416,6 @@ B10 Chiro     ⬛⬛⬛        Proprioceptive reset       Practitioner trust
 B01 Acupunct  ⬛⬛⬛        Gate control + endocannabinoid system (deep)  Opioid (EA), de qi schema
 B02 Acupress  ⬛⬛⬛        Gate control + CT (light)  Expectation + framework
 B11 DDN       ⬛⬛⬛        Gate control + trigger point         Practitioner framework
-B05 Facial    ⬛⬛⬛        CN V + CT                  Scaffolding (moderate)
 B13 Shiatsu   ⬛⬛          Gate control (CT BLOCKED)  Therapeutic framework
 B06 Reflexol  ⬛⬛          Gate control (CT ABSENT)   Zone/map belief (E₃)
 B12 EFT       ⬛⬛          Tapping mechano-reception  Cognitive protocol (E₃)
@@ -838,7 +836,6 @@ THE THERAPY REWARD CONTINUUM:
   B03 massage ────┤
   B08 thermal ────┤         B01 acupuncture ─────┤
   B16 yoga ───────┤         B10 chiropractic ────┤
-                            B05 facial ──────────┤
                                           B12 EFT ──────────┤
                                           B14 craniosacral ──┤
 

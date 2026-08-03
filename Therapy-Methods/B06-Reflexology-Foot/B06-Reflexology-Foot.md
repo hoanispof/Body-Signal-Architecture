@@ -23,12 +23,6 @@ date: 2026-07-31
 > The critical finding: positive effects vs passive/non-active controls, but largely NULL
 > vs sham foot massage → the SPECIFICITY PROBLEM.
 >
-> **Key Contrast:** B05 Dien Chan works on the face (CN V trigeminal → brainstem → vagal =
-> proven neuroanatomical pathway). B06 foot reflexology works on feet (L4-S3 spinal nerves →
-> NO direct connection to most organ viscerotomes). Dien Chan has a STRONGER neuroanatomical
-> case, despite having ~0 RCTs. Foot reflexology has MORE clinical trials but a WEAKER
-> mechanistic basis.
->
 > **Track A Foundation:** A01 §4.1 (PNS-therapy mapping), A07 §1.2/§1.6 (dermatome/viscerotome
 > maps — foot = L4-S1, organs served = bladder/rectum S2-S4 only), A03 (fascia in foot =
 > plantar fascia, thick but not primary therapeutic target).
@@ -285,11 +279,10 @@ date: 2026-07-31
   │  B04 Deep Tissue:   deep pressure → 100-200 kPa (estimated)        │
   │  B06 REFLEXOLOGY:  thumb pressure → ~75-150 kPa (estimated) ⬅     │
   │  B02 Acupressure:   finger/thumb → ~75 kPa                          │
-  │  B05 Dien Chan:     tool on face → ~30-50 kPa (lightest)           │
   │  B03 Massage:       varies widely (effleurage 20 → deep 200 kPa)  │
   │                                                                      │
   │  Foot reflexology applies MODERATE pressure —                        │
-  │  heavier than facial work (B05), lighter than deep tissue (B04),   │
+  │  lighter than deep tissue (B04),                                    │
   │  comparable to acupressure (B02).                                   │
   │                                                                      │
   │  FOOT SOLE = THICK SKIN:                                            │
@@ -391,12 +384,6 @@ date: 2026-07-31
     → Electronic foot massagers (marketed as "reflexology"
       but lack zone-specific targeting)
     → Self-treatment balls (golf balls, specialized foot rollers)
-
-  COMPARISON WITH B05 TOOLS:
-    B05 Dien Chan: 6+ specialized multireflex tools (horn, steel)
-    B06 Reflexology: primarily hands; tools are secondary/optional
-    = B06 is MORE standardized in technique (hands-only tradition)
-      but LESS standardized in protocol (no fixed point numbers)
 
   🟡 Tool descriptions from practitioner training materials
 ```
@@ -738,7 +725,6 @@ date: 2026-07-31
   │    B07 Cupping:      ~200 RCTs                 ████                  │
   │    B11 Dry Needling: ~100+ RCTs                ███                   │
   │    B06 REFLEXOLOGY:  ~50-80 RCTs               ██ ⬅                 │
-  │    B05 Dien Chan:    ~0 RCTs                   ▬                    │
   │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -870,15 +856,6 @@ date: 2026-07-31
   │  │  = "Reflexology works, but not for the reasons              │     │
   │  │    reflexologists think it works."                            │     │
   │  └────────────────────────────────────────────────────────────┘     │
-  │                                                                      │
-  │  PARALLEL TO B05 DIEN CHAN:                                         │
-  │  B05 reached a similar "uncomfortable implication":                  │
-  │  → Dien Chan may work because ANY facial stimulation activates     │
-  │    trigeminal-vagal pathway, not because of specific BQC points.   │
-  │  B06 reaches an EVEN STRONGER version:                               │
-  │  → Foot reflexology DEFINITELY works as general foot massage,      │
-  │    and likely NOT because of specific zone effects, because         │
-  │    the neuroanatomical basis for zones is ABSENT.                    │
   │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘
 
@@ -1018,11 +995,8 @@ date: 2026-07-31
   │    (c) Expectation → Evaluative Gates → parasympathetic shift      │
   │  → = More "psychophysiological" than "neurological"                 │
   │                                                                      │
-  │  KEY CONTRAST:                                                       │
-  │  B05 Dien Chan: face → CN V → brainstem → vagal = DIRECT           │
-  │    parasympathetic pathway (neurological)                            │
-  │  B06 Reflexology: foot → L4-S3 → spinal cord → NO direct           │
-  │    parasympathetic pathway. Relaxation is INDIRECT.                  │
+  │  NOTE: foot sole (L4-S3) has NO direct parasympathetic              │
+  │    pathway. Relaxation effect is INDIRECT (contextual).             │
   │                                                                      │
   │  🟡 Relaxation response mechanism is well-established (Benson)     │
   │  🟡 Application to foot reflexology is reasonable inference         │
@@ -1082,7 +1056,6 @@ date: 2026-07-31
   │      ② Gives patient a NARRATIVE (understanding → control           │
   │        → reduced anxiety → better outcomes)                          │
   │      ③ Creates SPECIFICITY expectation → enhanced response         │
-  │    → = Same insight as B05 §5.3 for Dien Chan's 257 BQC points   │
   │                                                                      │
   │  🟡 Contextual factors well-established in therapy research        │
   │  🟡 Human-Predictive-Drive Evaluative Gates framework supports this analysis          │
@@ -1183,18 +1156,10 @@ date: 2026-07-31
   │  (via Evaluative Gates / expectation), but the zone map is         │
   │  SCAFFOLDING, not MECHANISM.                                        │
   │                                                                      │
-  │  This parallels B05's conclusion about Dien Chan, but with a       │
-  │  CRUCIAL DIFFERENCE:                                                │
-  │  → B05 Dien Chan: trigeminal-vagal pathway IS a real mechanism     │
-  │    (zones may not matter, but the TERRITORY matters)                │
-  │  → B06 Reflexology: foot spinal pathway has NO special organ       │
-  │    connection (neither zones NOR territory are special)              │
-  │  → = B06 has a WEAKER mechanistic case than B05                    │
-  │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘
 
-  🟡 Synthesis integrates neuroanatomy (A01, A07), clinical evidence
-     (Ernst 2009, Descamps 2023), and B05 framework comparison.
+  🟡 Synthesis integrates neuroanatomy (A01, A07) and clinical evidence
+     (Ernst 2009, Descamps 2023).
 ```
 
 ---
@@ -1220,7 +1185,7 @@ date: 2026-07-31
   │ A02 — ANS    │ MINOR.                                           │
   │              │ General relaxation → parasympathetic shift.      │
   │              │ BUT: no DIRECT autonomic pathway from feet       │
-  │              │ (unlike B05 trigeminal-vagal or B02 ABVN).      │
+  │              │ (unlike B02 ABVN = direct vagal access).        │
   │              │ Autonomic effects are INDIRECT (contextual       │
   │              │ relaxation, not reflex-mediated).                │
   ├──────────────┼──────────────────────────────────────────────────┤
@@ -1283,7 +1248,6 @@ date: 2026-07-31
     B02 Acupressure:   A01+A02 dominant (point pressure + vagal)
     B07 Cupping:       A04 dominant (vascular, negative pressure)
     B11 Dry Needling:  A01+A08 dominant (needle + trigger point)
-    B05 Dien Chan:     A01+A02 DOMINANT (trigeminal-vagal pathway)
     B06 REFLEXOLOGY:   A01 MODERATE ONLY = WEAKEST activation ⭐⭐
                        = THE weakest Track A activation profile
                        in Track B so far
@@ -1296,53 +1260,7 @@ date: 2026-07-31
 
 ## §7 — COMPARISON WITH RELATED METHODS
 
-### §7.1 — Foot Reflexology vs Dien Chan (B05)
-
-```
-🟡 SAME CONCEPT, DIFFERENT NEUROANATOMICAL CASE:
-
-  ┌──────────────────┬─────────────────────┬────────────────────┐
-  │ Feature          │ Foot Reflex (B06)   │ Dien Chan (B05)    │
-  ├──────────────────┼─────────────────────┼────────────────────┤
-  │ Map surface      │ Foot sole           │ Face               │
-  │ Maps             │ 1 primary + variants│ 30+ projections    │
-  │ Point count      │ ~40-60 zones        │ 257 BQC points     │
-  │ Nerve territory  │ Tibial (L4-S3)      │ CN V (trigeminal)  │
-  │ Brainstem access │ ✗ NO                │ ✓ YES (direct)     │
-  │ Vagal coupling   │ ✗ NO                │ ✓ YES (V→X)        │
-  │ CT afferents     │ ✗ NO (glabrous)     │ Some (hairy areas) │
-  │ Organ pathway    │ Pelvic only (S2-S4) │ General ANS only   │
-  │ RCTs             │ ~50-80              │ ~0                  │
-  │ Sham-controlled  │ Mostly NEGATIVE     │ None conducted      │
-  │ Key mechanism    │ Non-specific (gate  │ Trigeminal-vagal   │
-  │                  │ control, relaxation)│ coupling (specific) │
-  ├──────────────────┼─────────────────────┼────────────────────┤
-  │ THE PARADOX:                                                │
-  │                                                              │
-  │ B05 has MORE clinical trials (0) but STRONGER mechanism:    │
-  │ → CN V → brainstem is a real, proven pathway                │
-  │ → Trigeminal-vagal coupling validated by eTNS, diving reflex│
-  │                                                              │
-  │ B06 has MORE clinical trials (~80) but WEAKER mechanism:    │
-  │ → L4-S3 spinal nerves have NO organ-specific pathway        │
-  │ → Zone model has NO neuroanatomical basis                    │
-  │ → Sham-controlled trials largely NEGATIVE                   │
-  │                                                              │
-  │ = MECHANISTIC PLAUSIBILITY and CLINICAL EVIDENCE are        │
-  │   INVERSELY correlated between B05 and B06.                  │
-  │                                                              │
-  │ BOTH share the "uncomfortable implication":                  │
-  │ → B05: facial stimulation works, but maybe not via           │
-  │   specific BQC points — any facial stim may suffice.         │
-  │ → B06: foot massage works, but almost certainly not via      │
-  │   specific zones — any foot massage produces same effects.   │
-  │ → B06's version is STRONGER because:                         │
-  │   (a) The foot lacks the special pathway the face has        │
-  │   (b) Sham-controlled evidence confirms non-specificity      │
-  └──────────────────┴─────────────────────┴────────────────────┘
-```
-
-### §7.2 — Foot Reflexology vs Acupressure Foot Points (B02)
+### §7.1 — Foot Reflexology vs Acupressure Foot Points (B02)
 
 ```
 🟡 DIFFERENT SYSTEMS ON THE SAME SURFACE:
@@ -1383,7 +1301,7 @@ date: 2026-07-31
   └──────────────────┴─────────────────────┴────────────────────┘
 ```
 
-### §7.3 — Foot Reflexology vs General Foot Massage (B03)
+### §7.2 — Foot Reflexology vs General Foot Massage (B03)
 
 ```
 🟡 THE DEFINITIVE COMPARISON:
@@ -1420,7 +1338,7 @@ date: 2026-07-31
   🟢 Descamps et al. 2023 (Sci Rep)
 ```
 
-### §7.4 — Foot Reflexology vs Auricular Reflexology (B02/A07)
+### §7.3 — Foot Reflexology vs Auricular Reflexology (B02/A07)
 
 ```
 🟡 THE EAR HAS WHAT THE FOOT LACKS:
@@ -1453,16 +1371,15 @@ date: 2026-07-31
   │                                                              │
   │ HIERARCHY OF REFLEXOLOGY NEUROANATOMICAL CASES:             │
   │   ① Auricular (B02): ABVN → NTS → vagal = VALIDATED        │
-  │   ② Facial (B05): CN V → brainstem = STRONG                 │
-  │   ③ Foot (B06): L4-S3 → spinal only = WEAK                 │
-  │   = Foot reflexology has the WEAKEST case of all three.     │
+  │   ② Foot (B06): L4-S3 → spinal only = WEAK                 │
+  │   = Foot reflexology has the WEAKER case of the two.        │
   └──────────────────┴─────────────────────┴────────────────────┘
 
   🟢 ABVN anatomy (Peuker & Filler 2002, A07 §1.8)
   🟡 Hierarchy assessment is framework synthesis
 ```
 
-### §7.5 — Cultural Variants: Western vs TCM vs Thai
+### §7.4 — Cultural Variants: Western vs TCM vs Thai
 
 ```
 🟡 MULTIPLE FOOT TRADITIONS — DIFFERENT FRAMEWORKS:
@@ -1836,7 +1753,7 @@ date: 2026-07-31
   │          │ row in terms of PNS engagement.                       │
   ├──────────┼───────────────────────────────────────────────────────┤
   │ A02 ANS  │ B06 autonomic effects are INDIRECT (relaxation       │
-  │          │ response), unlike B05 (trigeminal-vagal = direct).   │
+  │          │ response, not direct reflex-mediated).                │
   │          │ A02 §4.5 trigeminal-vagal coupling does NOT apply    │
   │          │ to foot (different nerve territory).                  │
   ├──────────┼───────────────────────────────────────────────────────┤
@@ -1900,15 +1817,11 @@ date: 2026-07-31
 ### §11.3 — Track B Links
 
 ```
-  B05 Dien Chan:     §7.1 — same reflexology concept, different
-                     surface, WEAKER neuroanatomical case for B06.
-                     B05 §7.2 already compared from B05's perspective.
-
-  B02 Acupressure:   §7.2 — different point system on same surface.
+  B02 Acupressure:   §7.1 — different point system on same surface.
                      B02's TCM foot points ≠ reflexology zones.
                      B02 §5 covers auricular (has vagal — foot does not).
 
-  B03 Massage:       §7.3 — reflexology ≈ systematic foot massage.
+  B03 Massage:       §7.2 — reflexology ≈ systematic foot massage.
                      B03's pressure-dependent pathway model applies
                      to foot massage component.
                      B03 §5.2 gate control applies fully.
@@ -2001,8 +1914,8 @@ date: 2026-07-31
      Track B therapy analyzed so far.
 
   ⑦ Among reflexology types, foot reflexology has the WEAKEST
-     neuroanatomical case: auricular (vagal) > facial (trigeminal)
-     > foot (spinal, no special organ pathway).
+     neuroanatomical case: auricular (vagal) > foot (spinal, no
+     special organ pathway).
 
   ⑧ Despite the negative specificity evidence, foot reflexology
      has GENUINE therapeutic value as a comfortable, safe,

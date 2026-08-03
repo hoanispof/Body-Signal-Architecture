@@ -14,7 +14,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 
 ### §1.1 — Why This Cross-Reference Exists
 
-Individual Track B files each document clinical effects for their therapy (§4) and assess evidence quality (§9). But these profiles are therapy-centric — they answer "what does acupuncture treat?" not "what treats chronic low back pain?" Since multiple therapies claim efficacy for the same conditions (chronic LBP appears in 12/16 therapies), and some conditions respond to seemingly unrelated therapies (anxiety improves with acupuncture, massage, EFT, Tai Chi, and yoga), the therapy-level analysis obscures a more fundamental question:
+Individual Track B files each document clinical effects for their therapy (§4) and assess evidence quality (§9). But these profiles are therapy-centric — they answer "what does acupuncture treat?" not "what treats chronic low back pain?" Since multiple therapies claim efficacy for the same conditions (chronic LBP appears in 12/15 therapies), and some conditions respond to seemingly unrelated therapies (anxiety improves with acupuncture, massage, EFT, Tai Chi, and yoga), the therapy-level analysis obscures a more fundamental question:
 
 **For a given condition, which therapy has the strongest evidence — and WHY does it work?**
 
@@ -22,8 +22,8 @@ This matrix answers that question by inverting the Track B perspective: instead 
 
 ### §1.2 — Data Sources
 
-- **Clinical effects:** All 16 Track B §4 (Documented Clinical Effects) sections, read in full
-- **Evidence quality:** All 16 Track B §9 (Evidence Assessment) sections, read in full
+- **Clinical effects:** All 15 Track B §4 (Documented Clinical Effects) sections, read in full
+- **Evidence quality:** All 15 Track B §9 (Evidence Assessment) sections, read in full
 - **Stimulus context:** C01 (Stimulus-Pathway-Matrix — which stimulus activates which pathways)
 - **Mechanism context:** C03 (Common-Mechanisms — shared vs unique mechanisms, specificity spectrum)
 - **Location context:** C04 (Location-Specificity-Map — body region pathway hierarchy, validated vs unvalidated location systems)
@@ -66,43 +66,43 @@ This matrix answers that question by inverting the Track B perspective: instead 
 
 ### §2.1 — Condition Domain Classification
 
-Clinical conditions extracted from 16 Track B files organized into 12 domains, ordered by coverage across therapies (most therapies → fewest):
+Clinical conditions extracted from 15 Track B files organized into 12 domains, ordered by coverage across therapies (most therapies → fewest):
 
 ```
 DOMAIN                          CONDITIONS INCLUDED                   THERAPIES WITH
                                                                       ANY EVIDENCE
 ─────────────────────────────── ───────────────────────────────────── ─────────────
-1. MUSCULOSKELETAL PAIN         Chronic LBP, neck pain, knee OA,      14/16
+1. MUSCULOSKELETAL PAIN         Chronic LBP, neck pain, knee OA,      14/15
                                  fibromyalgia, trigger point/myofascial,
                                  shoulder, lateral epicondylitis,
                                  plantar fasciitis, tendinopathy
 
-2. PSYCHOLOGICAL                Depression, anxiety, PTSD,             10/16
+2. PSYCHOLOGICAL                Depression, anxiety, PTSD,             10/15
                                  phobias, stress
 
-3. HEADACHE                     Migraine, TTH, cervicogenic            7/16
+3. HEADACHE                     Migraine, TTH, cervicogenic            7/15
 
-4. SLEEP                        Insomnia, sleep quality                8/16
+4. SLEEP                        Insomnia, sleep quality                8/15
 
-5. AUTONOMIC/VISCERAL           PONV, CINV, hypertension,              7/16
+5. AUTONOMIC/VISCERAL           PONV, CINV, hypertension,              7/15
                                  IBS/digestive
 
-6. OBSTETRIC/GYNECOLOGICAL      Breech, labor pain, dysmenorrhea,      6/16
+6. OBSTETRIC/GYNECOLOGICAL      Breech, labor pain, dysmenorrhea,      6/15
                                  breast engorgement, perimenopausal
 
-7. CANCER SUPPORTIVE            Cancer pain, fatigue, QoL,             7/16
+7. CANCER SUPPORTIVE            Cancer pain, fatigue, QoL,             7/15
                                  chemo side effects
 
-8. NEUROLOGICAL/BALANCE         Fall prevention, Parkinson's,          4/16
+8. NEUROLOGICAL/BALANCE         Fall prevention, Parkinson's,          4/15
                                  cognitive/MCI, post-stroke
 
-9. SPORTS/RECOVERY              DOMS, sports performance              4/16
+9. SPORTS/RECOVERY              DOMS, sports performance              4/15
 
-10. METABOLIC                   T2DM, hypertension, obesity            3/16
+10. METABOLIC                   T2DM, hypertension, obesity            3/15
 
-11. RESPIRATORY                 COPD, asthma, allergic rhinitis        4/16
+11. RESPIRATORY                 COPD, asthma, allergic rhinitis        4/15
 
-12. INFLAMMATORY/IMMUNE/OTHER   Hepatitis B, herpes zoster,            5/16
+12. INFLAMMATORY/IMMUNE/OTHER   Hepatitis B, herpes zoster,            5/15
                                  urticaria, preterm growth
 ```
 
@@ -154,15 +154,14 @@ TIER   CRITERIA                                      THERAPIES
                                                         extreme COI, waitlist
                                                         controls, Spielmans 2020)
 
-  5    Near-zero RCTs or foundational claims           B05 Dien Chan (~0 RCTs)
-       CONTRADICTED. Evidence base too weak for        B13 Shiatsu (1 proper RCT)
-       meaningful clinical assessment                  B14 Craniosacral (theory
-                                                        contradicted, CSR r=0.004)
+  5    Near-zero RCTs or foundational claims           B13 Shiatsu (1 proper RCT)
+       CONTRADICTED. Evidence base too weak for        B14 Craniosacral (theory
+       meaningful clinical assessment                    contradicted, CSR r=0.004)
 ```
 
-**Key distinction: Tier 4 vs Tier 5.** Both are weak, but for different reasons. Tier 4 therapies HAVE evidence that fails quality standards (B06 inverse quality-outcome, B12 COI/waitlist). Tier 5 therapies LACK evidence entirely (B05, B13) or have their theoretical basis CONTRADICTED (B14). Tier 4 = weak positive evidence; Tier 5 = insufficient or negative evidence. 🟡
+**Key distinction: Tier 4 vs Tier 5.** Both are weak, but for different reasons. Tier 4 therapies HAVE evidence that fails quality standards (B06 inverse quality-outcome, B12 COI/waitlist). Tier 5 therapies LACK evidence entirely (B13) or have their theoretical basis CONTRADICTED (B14). Tier 4 = weak positive evidence; Tier 5 = insufficient or negative evidence. 🟡
 
-**Important caveat:** Evidence tier reflects RESEARCH INFRASTRUCTURE quality, not therapeutic value. B05 Dien Chan (Tier 5) may be effective — eTNS at the same trigeminal territory is FDA-approved — but no RCTs exist to assess it. B14 Craniosacral (Tier 5) produces real relaxation effects despite contradicted theory. Tier = confidence in our KNOWLEDGE, not therapy WORTH. 🟡
+**Important caveat:** Evidence tier reflects RESEARCH INFRASTRUCTURE quality, not therapeutic value. B14 Craniosacral (Tier 5) produces real relaxation effects despite contradicted theory. Tier = confidence in our KNOWLEDGE, not therapy WORTH. 🟡
 
 ---
 
@@ -264,7 +263,7 @@ Shoulder         —      —      🟡     🟡     —      —      —      
                               2022                                SMD
 ```
 
-**Notes:** B05 Dien Chan, B06 Reflexology, B12 EFT = no MSK pain evidence meeting 🟡 threshold. B06 pain evidence exists but is inconsistent and null vs sham (Ernst 2009). B12 pain = weak/not primary domain.
+**Notes:** B06 Reflexology, B12 EFT = no MSK pain evidence meeting 🟡 threshold. B06 pain evidence exists but is inconsistent and null vs sham (Ernst 2009). B12 pain = weak/not primary domain.
 
 #### Domain 2: HEADACHE
 
@@ -629,12 +628,12 @@ B07/B09     HO-1 microtrauma pathway               MSK pain (cytoprotection),   
 
 #### 3.4.2 — Why Chronic Pain Responds to Almost Everything 🟡
 
-Chronic LBP has evidence from 12/16 therapies. This is NOT because everything works — it is because chronic pain pathophysiology engages the UNIVERSAL mechanism base:
+Chronic LBP has evidence from 12/15 therapies. This is NOT because everything works — it is because chronic pain pathophysiology engages the UNIVERSAL mechanism base:
 
-1. **Peripheral nociception** → gate control (L2) = activated by ANY Aβ stimulus = 13/16 therapies
-2. **Central sensitization** → descending modulation (L3) = activated by sufficient Aδ/C input = 11/16 therapies
-3. **HPA dysregulation** → cortisol modulation (L5) = activated by ANY structured therapeutic encounter = 12/16
-4. **Catastrophizing/fear-avoidance** → evaluative gates (L6) = activated by ALL therapies = 16/16
+1. **Peripheral nociception** → gate control (L2) = activated by ANY Aβ stimulus = 12/15 therapies
+2. **Central sensitization** → descending modulation (L3) = activated by sufficient Aδ/C input = 11/15 therapies
+3. **HPA dysregulation** → cortisol modulation (L5) = activated by ANY structured therapeutic encounter = 11/15
+4. **Catastrophizing/fear-avoidance** → evaluative gates (L6) = activated by ALL therapies = 15/15
 
 Since chronic pain engages ALL levels of the mechanism hierarchy, and the universal mechanisms (gate control, descending modulation, opioids, evaluative gates) are sufficient for modest pain relief (SMD 0.2-0.5), MOST therapies produce SOME benefit. The therapy-specific mechanisms (PROKR2, HO-1, HSP, proprioceptive reset) add DIFFERENTIAL benefit on top of this shared base — but this differential is small (typically 0.1-0.3 SMD additional over sham).
 
@@ -654,7 +653,7 @@ Unlike chronic pain (which responds to nearly all therapies), psychological cond
 PONV (postoperative nausea/vomiting) at PC6 is the ONLY condition-therapy pair where two therapies (B01 and B02) both achieve 🟢 evidence AND match antiemetic drugs. This occurs because:
 
 1. **Location:** PC6 = median nerve territory → vagal afferent access → NTS → vomiting center. C04 body region hierarchy: forearm = standard somatovisceral pathway, but PC6 specifically accesses the vagal-NTS-CTZ circuit.
-2. **Mechanism:** Somatovisceral reflex (C03 Tier 2 common mechanism, 7/16 therapies) operates at SEGMENTAL level (L2). Surface pressure is SUFFICIENT — penetration adds no additional mechanism relevant to nausea.
+2. **Mechanism:** Somatovisceral reflex (C03 Tier 2 common mechanism, 7/15 therapies) operates at SEGMENTAL level (L2). Surface pressure is SUFFICIENT — penetration adds no additional mechanism relevant to nausea.
 3. **Why B02 = B01 here:** The antiemetic mechanism requires ONLY sustained median nerve stimulation → vagal afferent activation → NTS modulation of vomiting reflex. Needle penetration adds mechanisms (adenosine, PROKR2, collagen winding) that are IRRELEVANT to nausea suppression. For this specific condition, acupressure's retained mechanisms are the COMPLETE mechanism set.
 
 This explains why P6 acupressure is the ONLY condition where B02 fully matches B01 — the condition's pathophysiology requires exactly the mechanisms that acupressure retains.
@@ -719,7 +718,6 @@ correlation          neutral                                         or COI (B12
 - B12: Church = editor + publisher + trainer + researcher (unprecedented COI). "99%" positive rate. Spielmans 2020 corrections. No guideline endorsement despite 69+ RCTs.
 
 **Tier 5 biases (ABSENCE or CONTRADICTION):**
-- B05: Geopolitical isolation, no RCTs at all.
 - B13: Only 1 proper RCT (Kobayashi 2019). Japanese research tradition values clinical observation over RCTs.
 - B14: CSR inter-rater reliability r=0.004. Cranial bone motion 1-25 μm vs palpation threshold ~200 μm.
 
@@ -731,9 +729,9 @@ Patterns discovered FROM the cross-reference that are NOT visible in individual 
 
 ### §4.1 — The Universal Pain Response 🟡
 
-**Pattern:** 12/16 therapies have at least 🟡 evidence for chronic LBP. 14/16 have evidence for MSK pain generally. Pain is the UNIVERSAL clinical domain for body-based therapy.
+**Pattern:** 12/15 therapies have at least 🟡 evidence for chronic LBP. 14/15 have evidence for MSK pain generally. Pain is the UNIVERSAL clinical domain for body-based therapy.
 
-**Explanation:** Chronic pain engages all 7 universal mechanisms from C03 Tier 1 (gate control, parasympathetic shift, evaluative gates, cortisol modulation, opioids, descending modulation, vasodilation). Since these mechanisms are shared by ≥10/16 therapies, nearly all therapies can modulate chronic pain to some degree.
+**Explanation:** Chronic pain engages all 7 universal mechanisms from C03 Tier 1 (gate control, parasympathetic shift, evaluative gates, cortisol modulation, opioids, descending modulation, vasodilation). Since these mechanisms are shared by ≥10/15 therapies, nearly all therapies can modulate chronic pain to some degree.
 
 **Implication:** Pain treatment trials comparing different body-based therapies will usually find small or non-significant differences (confirmed by Cochrane reviews showing B10 ≈ exercise ≈ PT ≈ B01 ≈ B16 for LBP). The 7 universal mechanisms create a "shared floor" of pain relief that ALL therapies access. Therapy-specific advantages (0.1-0.3 SMD) exist but require large, well-designed trials to detect.
 
@@ -804,7 +802,7 @@ B09 Gua Sha exemplifies the dissociation: strongest mechanism science in Track B
 BROAD (5+ domains):   B01 (8 domains), B16 (7), B15 (7), B03 (6), B02 (6)
 MODERATE (3-4):       B04 (4), B11 (4), B10 (3), B08 (3)
 NARROW (1-2):         B07 (1: pain only), B09 (2: pain + hepato), B12 (1: psych only)
-INSUFFICIENT:         B05, B06, B13, B14 (insufficient evidence to assess domain range)
+INSUFFICIENT:         B06, B13, B14 (insufficient evidence to assess domain range)
 ```
 
 The condition-specificity gradient correlates with:
@@ -921,7 +919,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 **Q3. Is there a genuine active-therapy advantage beyond exercise equivalence?** B15 and B16 produce the broadest clinical range. But is this because they are THERAPEUTIC modalities or because they are EXERCISE with good marketing? The most consistent finding is yoga ≈ PT ≈ exercise for MSK. If this extends to depression and metabolic conditions (yoga ≈ matched exercise for depression), the mind-body component may add nothing beyond exercise physiology. Streeter's GABA finding is the strongest candidate for a genuine yoga-specific mechanism — but remains unreplicated.
 
-**Q4. What is the optimal therapy for conditions that respond to multiple therapies?** Chronic LBP responds to 12/16 therapies. How should a clinician choose? The matrix suggests: (a) mechanism match to pain subtype, (b) patient preference, (c) availability/cost, (d) safety. But NO study has compared therapy-selection strategies (mechanism-matched vs random vs patient-preference) to determine which selection method improves outcomes.
+**Q4. What is the optimal therapy for conditions that respond to multiple therapies?** Chronic LBP responds to 12/15 therapies. How should a clinician choose? The matrix suggests: (a) mechanism match to pain subtype, (b) patient preference, (c) availability/cost, (d) safety. But NO study has compared therapy-selection strategies (mechanism-matched vs random vs patient-preference) to determine which selection method improves outcomes.
 
 **Q5. Can evidence Tier 3 therapies be upgraded efficiently?** B07, B08, B09 have strong mechanisms but weak clinical evidence. Would a single well-designed RCT per therapy (n≥100, sham-controlled, adequate follow-up) upgrade them to Tier 2? Or are the structural barriers (sham problem, cultural concentration) insurmountable for manual therapies?
 
@@ -951,14 +949,13 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 ### §8.2 — Track B Files Referenced
 
-All 16 Track B files referenced via §4 (Clinical Effects) and §9 (Evidence Assessment):
+All 15 Track B files referenced via §4 (Clinical Effects) and §9 (Evidence Assessment):
 
 **Every cell in the Main Matrix (§3.2) traces to a specific Track B §4 subsection.** Key contributions by therapy:
 - B01 §4: 8+ Tier 1 conditions (largest clinical range)
 - B02 §4: PONV PC6 (matching B01), preoperative anxiety (SMD -1.30)
 - B03 §4: Preterm infant growth (Field 1986), DOMS (Crane 2012), fibromyalgia
 - B04 §4: Structural-Neural Dissociation for MSK pain
-- B05 §4: Zero RCTs but eTNS validates trigeminal territory
 - B06 §4: Inverse quality-outcome (Ernst 2009), fMRI null (Descamps 2023)
 - B07 §4: Pain-only profile matching narrow HO-1 mechanism
 - B08 §4: Breech paradox (Cardini 1998 JAMA = strongest single-point evidence)

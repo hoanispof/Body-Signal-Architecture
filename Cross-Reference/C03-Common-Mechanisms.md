@@ -18,30 +18,30 @@ Individual Track B files each propose their own mechanism model (§5 in each fil
 
 **This cross-reference answers three questions no individual Track B file can:**
 
-1. **What mechanisms are SHARED across therapies?** Gate control appears in ~13/16 therapies — does that make it trivial or fundamental?
+1. **What mechanisms are SHARED across therapies?** Gate control appears in ~12/15 therapies — does that make it trivial or fundamental?
 2. **What mechanisms are UNIQUE to specific therapies?** HSP is B08-only, PROKR2 is B01-EA-only — what does exclusivity reveal about therapeutic specificity?
 3. **Can the different mechanism models be UNIFIED?** B01's 6-level and B11's 4-level describe the SAME building from different doors (B11 §5.3) — what does the unified building look like?
 
 ### §1.2 — Data Sources
 
-- **Mechanism models:** All 16 Track B §5 (Proposed Mechanisms) sections, read in full
-- **System mappings:** All 16 Track B §6 (Body System Pathways) via C01
+- **Mechanism models:** All 15 Track B §5 (Proposed Mechanisms) sections, read in full
+- **System mappings:** All 15 Track B §6 (Body System Pathways) via C01
 - **Reality Check findings:** 7 RCs from Phase 2 (~15 additions, ~4 corrections)
 - **C01 patterns:** 10 emergent patterns, particularly System Dominance Fingerprints (§4.1), Therapeutic Scaffolding Cluster (§4.9), and Endocannabinoid System Pressure Threshold (§4.6)
 
 ### §1.3 — Methodology
 
-**Mechanism extraction.** Every mechanism mentioned in every Track B §5 was cataloged with: mechanism name, confidence level, Track A system mapping, and therapy occurrence. Total: ~250+ mechanism entries across 16 files, reducible to ~51 distinct mechanism types.
+**Mechanism extraction.** Every mechanism mentioned in every Track B §5 was cataloged with: mechanism name, confidence level, Track A system mapping, and therapy occurrence. Total: ~250+ mechanism entries across 15 files, reducible to ~51 distinct mechanism types.
 
-**Frequency counting.** Each mechanism type was scored for presence/absence across 16 therapies. "Present" requires the mechanism to be identified at 🟢 or 🟡 confidence in the therapy's §5; inferred mechanisms (🔴) are noted separately.
+**Frequency counting.** Each mechanism type was scored for presence/absence across 15 therapies. "Present" requires the mechanism to be identified at 🟢 or 🟡 confidence in the therapy's §5; inferred mechanisms (🔴) are noted separately.
 
 **Level unification.** Different therapy-specific level models were mapped onto a common spatial-scale framework, preserving the insight that each therapy's model reflects its PRIMARY mechanism domain.
 
 **Shared/unique classification.** Mechanisms were classified into four tiers:
-- **Universal** (≥10/16): fundamental to body-based therapy
-- **Common** (5-9/16): shared across significant subset
-- **Narrow** (2-4/16): restricted to specific therapy families
-- **Unique** (1/16): therapy-exclusive mechanisms
+- **Universal** (≥10/15): fundamental to body-based therapy
+- **Common** (5-9/15): shared across significant subset
+- **Narrow** (2-4/15): restricted to specific therapy families
+- **Unique** (1/15): therapy-exclusive mechanisms
 
 ---
 
@@ -49,7 +49,7 @@ Individual Track B files each propose their own mechanism model (§5 in each fil
 
 ### §2.1 — Mechanism Domain Classification
 
-51 distinct mechanism types were identified across 16 therapies. These map onto 9 domains aligned with Track A systems plus one cognitive domain:
+51 distinct mechanism types were identified across 15 therapies. These map onto 9 domains aligned with Track A systems plus one cognitive domain:
 
 ```
 DOMAIN                 TRACK A    MECHANISM TYPES    EXAMPLES
@@ -108,9 +108,8 @@ Processing Level           B10, B04                   Organized by processing
                                                       stage: biomechanical →
                                                       proprioceptive → pain → ANS
 
-Unique Logic               B05 (trigeminal-first)     Organized around what makes
-                           B06 (non-specific-first)   THIS therapy distinctive
-                           B08 (TRPV1-first)
+Unique Logic               B06 (non-specific-first)   Organized around what makes
+                           B08 (TRPV1-first)          THIS therapy distinctive
                            B12 (cognitive-first)
 
 Inferred                   B02, B03, B13, B14         Uses parent therapy's model
@@ -167,9 +166,6 @@ B04 3-domain (A/B/C)      A→L1-L4(Neural), B→L1(Fascial),             Domain
 B15/B16 6-level (L1-L6)   Maps onto L1-L6 with all domains engaged    Broadest spatial + domain
                            at LOW-MODERATE intensity                    coverage = integration
 
-B05 5-level (L1-L5)       L1→L3(Trigem-vagal), L2→L3(Brainstem),      Enters at L3 directly
-                           L3→L2(Neural), L4→L3(ANS), L5→L6(Cog)      via trigeminal shortcut
-
 B12 6-level (L1-L6)       L1→L6(Cognitive), L2→L6(Cog), L3→L3(ANS),  Cognitive levels FIRST
                            L4→L5(Chem), L5→L4(Cort), L6→L4(Cort)      = inverted spatial order
 
@@ -180,103 +176,103 @@ B14 6-mech                 All→L1-L6 at MINIMAL levels;                Weakest
                            stated mechanism CONTRADICTED                in Track B
 ```
 
-**Key insight from unification:** Each therapy's model reveals its ENTRY POINT into the unified mechanism landscape. B01 enters at L1 (tissue penetration) and cascades upward through all levels. B05 enters at L3 (trigeminal shortcut to brainstem). B10 enters at L1-L2 (proprioceptive burst). B12 enters at L6 (cognitive protocol). The entry point determines which levels are PRIMARY and which are secondary cascades. 🟡
+**Key insight from unification:** Each therapy's model reveals its ENTRY POINT into the unified mechanism landscape. B01 enters at L1 (tissue penetration) and cascades upward through all levels. B10 enters at L1-L2 (proprioceptive burst). B12 enters at L6 (cognitive protocol). The entry point determines which levels are PRIMARY and which are secondary cascades. 🟡
 
 **What unification reveals about B01/B11:** B11's "Different Entry Point, Same Building" metaphor extends to the unified framework. B01 occupies 6 levels across 8 domains; B11 occupies 4 levels across 5 domains — same mechanisms at L1-L2, progressively fewer at L3+. This explains 93.3% anatomical overlap + different clinical scope: same building, different floors accessed. 🟡
 
 ### §3.2 — Shared Mechanism Catalog
 
-All 51 mechanism types ranked by occurrence across 16 therapies:
+All 51 mechanism types ranked by occurrence across 15 therapies:
 
-#### Tier 1 — Universal Mechanisms (≥10/16 therapies)
+#### Tier 1 — Universal Mechanisms (≥10/15 therapies)
 
 These mechanisms are FUNDAMENTAL to body-based therapy. Their ubiquity means they cannot explain differential clinical effects between therapies — they are the common substrate.
 
 ```
 RANK  MECHANISM                    COUNT   THERAPIES PRESENT
 ────  ──────────────────────────── ─────── ──────────────────────────────────
- 1    Evaluative Gates /           16/16   ALL — unavoidable in any
+ 1    Evaluative Gates /           15/15   ALL — unavoidable in any
       Therapeutic Context                   therapeutic encounter
- 2    Parasympathetic Shift /      ~13/16  All except B07, B09, B11
+ 2    Parasympathetic Shift /      ~12/15  All except B07, B09, B11
       Vagal Tone Enhancement                (no relaxation context)
- 3    Gate Control                 ~13/16  All except B08 (thermal, no Aβ),
+ 3    Gate Control                 ~12/15  All except B08 (thermal, no Aβ),
       (Aβ → dorsal horn)                   B14 (below threshold), B15 (self)
- 4    Cortisol Modulation          ~12/16  All except B07, B09, B11, B12
+ 4    Cortisol Modulation          ~11/15  All except B07, B09, B11, B12
       (HPA axis)                            (uncertain/non-specific)
- 5    Endogenous Opioids           ~11/16  All except B05, B06, B12, B13,
+ 5    Endogenous Opioids           ~11/15  All except B06, B12, B13,
       (β-endorphin, enkephalin)             B14 (insufficient stimulus)
- 6    Descending Modulation        ~11/16  All with Aδ/C input: B01-B04,
+ 6    Descending Modulation        ~11/15  All with Aδ/C input: B01-B04,
       (PAG-RVM pathway)                     B07, B09-B11, B13, B16(deep)
- 7    Local Vasodilation           ~10/16  All with tissue contact +
+ 7    Local Vasodilation           ~10/15  All with tissue contact +
       (CGRP, NO, Lewis response)            sufficient pressure
 ```
 
 **Observation:** The top 3 universal mechanisms correspond to the THREE foundational analgesic theories in pain science: gate control (Melzack & Wall 1965), descending modulation (Basbaum & Fields 1984), and cognitive/contextual modulation (Evaluative Gates/placebo). Every effective body-based therapy engages at least two of these three. 🟡
 
-#### Tier 2 — Common Mechanisms (5-9/16 therapies)
+#### Tier 2 — Common Mechanisms (5-9/15 therapies)
 
 These mechanisms are SHARED but not universal — their presence/absence PARTIALLY explains differential effects.
 
 ```
 RANK  MECHANISM                    COUNT   KEY BOUNDARY
 ────  ──────────────────────────── ─────── ──────────────────────────────
- 8    Axon Reflex                  ~9/16   Requires tissue contact with
+ 8    Axon Reflex                  ~9/15   Requires tissue contact with
       (C fiber → CGRP/SP)                  sufficient deformation
- 9    Mechanotransduction          ~8/16   Requires mechanical force
+ 9    Mechanotransduction          ~8/15   Requires mechanical force
       (integrin-FAK-ERK, Crane)            reaching fascial tissue
-10    Muscle Tone Regulation       ~8/16   Requires pressure on muscle
+10    Muscle Tone Regulation       ~8/15   Requires pressure on muscle
       (spindle, gamma loop)                (excludes thermal, percussive)
-11    Somatoautonomic Reflex       ~7/16   Requires segmental anatomy
+11    Somatoautonomic Reflex       ~7/15   Requires segmental anatomy
       (somatic → autonomic)                knowledge for targeting
-12    Thixotropy / HA Metabolism   ~7/16   Requires sustained pressure
+12    Thixotropy / HA Metabolism   ~7/15   Requires sustained pressure
       (fascial fluid dynamics)             on fascial tissue
-13    Segmental Convergence        ~7/16   Requires location at specific
+13    Segmental Convergence        ~7/15   Requires location at specific
       (dermatome-viscerotome)              dermatome-viscerotome overlap
-14    DNIC / CPM                   ~7/16   Requires pain-level stimulus
+14    DNIC / CPM                   ~7/15   Requires pain-level stimulus
       ("pain inhibits pain")               (deep pressure, needle, scraping)
-15    Cutaneous HPA Axis           ~7/16   Requires skin stress (pressure,
+15    Cutaneous HPA Axis           ~7/15   Requires skin stress (pressure,
       (CRH→POMC→β-endorphin)              penetration, heat) on keratinocytes
-16    Vagal Anti-inflammatory      ~6/16   Requires sufficient vagal
+16    Vagal Anti-inflammatory      ~6/15   Requires sufficient vagal
       (Tracey, cholinergic)                activation (breathing, moderate
                                             pressure, auricular)
-17    Macrophage M1→M2             ~6/16   Requires tissue damage signal
+17    Macrophage M1→M2             ~6/15   Requires tissue damage signal
       Polarization                         (micro-wound or microtrauma)
-18    GTO Autogenic Inhibition     ~6/16   Requires sustained tension
+18    GTO Autogenic Inhibition     ~6/15   Requires sustained tension
       (Ib → muscle relaxation)             on tendon
-19    Neuroplasticity              ~6/16   Requires repeated sessions
+19    Neuroplasticity              ~6/15   Requires repeated sessions
       (BDNF, grey matter volume, connectivity)  over weeks-months
-20    endocannabinoid system Activation               ~6/16   THRESHOLD-DEPENDENT: requires
+20    endocannabinoid system Activation               ~6/15   THRESHOLD-DEPENDENT: requires
       (AEA/2-AG, CB1/CB2)                 pressure reaching deep fascia
                                             (~40-65N, C01 §4.6)
 ```
 
-**Key boundary mechanisms:** Endocannabinoid system activation (rank 20) is the clearest example of a THRESHOLD-DEPENDENT mechanism: present in deep pressure therapies (B04, B03-deep, B01-deep, B15, B16-vigorous), absent in light/superficial therapies (B05, B06, B12, B14). The endocannabinoid system threshold (~40-65N) creates a binary divide in the therapy landscape. 🟡
+**Key boundary mechanisms:** Endocannabinoid system activation (rank 20) is the clearest example of a THRESHOLD-DEPENDENT mechanism: present in deep pressure therapies (B04, B03-deep, B01-deep, B15, B16-vigorous), absent in light/superficial therapies (B06, B12, B14). The endocannabinoid system threshold (~40-65N) creates a binary divide in the therapy landscape. 🟡
 
-#### Tier 3 — Narrow Mechanisms (2-4/16 therapies)
+#### Tier 3 — Narrow Mechanisms (2-4/15 therapies)
 
 These mechanisms distinguish THERAPY FAMILIES — groups of therapies sharing specific pathways.
 
 ```
 RANK  MECHANISM                    COUNT   THERAPY FAMILY
 ────  ──────────────────────────── ─────── ────────────────────────────────
-21    trigger point Deactivation             ~5/16   Pressure family (B02-B04, B11, B13)
-22    Central Sensitization Rev.   ~5/16   Repeated-session therapies
-23    CT Afferent                  ~5/16   Light-touch family (B02, B03,
+21    trigger point Deactivation             ~5/15   Pressure family (B02-B04, B11, B13)
+22    Central Sensitization Rev.   ~5/15   Repeated-session therapies
+23    CT Afferent                  ~5/15   Light-touch family (B02, B03,
       (affective touch)                    B04, B14; NOT B13 clothing)
-24    Oxytocin                     ~5/16   Skin-to-skin light touch
-25    Mast Cell Activation         ~5/16   Penetration + strong pressure
-26    Adenosine/Purinergic         ~4/16   Needle family (B01, B11) + deep
+24    Oxytocin                     ~5/15   Skin-to-skin light touch
+25    Mast Cell Activation         ~5/15   Penetration + strong pressure
+26    Adenosine/Purinergic         ~4/15   Needle family (B01, B11) + deep
                                             pressure (B02, B03)
-27    HO-1 Pathway                 2/16    Microtrauma family (B07, B09)
-28    Collagen Winding             2/16    Needle family (B01, B11)
-29    Micro-wound / DAMPs          2/16    Needle family (B01, B11)
-30    LTR / ACh Depletion          2/16    Needle family (B01, B11)
-31    Voluntary ANS Access         2/16    Active movement (B15, B16)
-32    Myokine Pathway              2/16    Active movement (B15, B16)
-33    Proprioceptive Reset         ~3/16   Joint/movement (B10, B15, B16)
-34    Trigeminal-Vagal             ~3/16   Facial stimulation (B05, B12?)
-35    Self-Efficacy (dominant)     2/16    Active self-therapy (B15, B16)
-36    Interoceptive Training       ~3/16   Body-awareness (B14, B15, B16)
+27    HO-1 Pathway                 2/15    Microtrauma family (B07, B09)
+28    Collagen Winding             2/15    Needle family (B01, B11)
+29    Micro-wound / DAMPs          2/15    Needle family (B01, B11)
+30    LTR / ACh Depletion          2/15    Needle family (B01, B11)
+31    Voluntary ANS Access         2/15    Active movement (B15, B16)
+32    Myokine Pathway              2/15    Active movement (B15, B16)
+33    Proprioceptive Reset         ~3/15   Joint/movement (B10, B15, B16)
+34    Trigeminal-Vagal             ~2/15   Facial stimulation (B12?)
+35    Self-Efficacy (dominant)     2/15    Active self-therapy (B15, B16)
+36    Interoceptive Training       ~3/15   Body-awareness (B14, B15, B16)
 ```
 
 **Therapy families identified from narrow mechanisms:** 🟡
@@ -285,9 +281,9 @@ RANK  MECHANISM                    COUNT   THERAPY FAMILY
 - **Active Movement Family** (B15, B16): voluntary ANS + myokine + self-efficacy
 - **Light Touch Family** (B02-light, B03-light, B14): CT afferent + oxytocin
 - **Pressure Family** (B02, B03, B04, B13): trigger point deactivation + muscle tone regulation
-- **Facial Family** (B05, B12-partial): trigeminal-vagal
+- **Facial Family** (B12-partial): trigeminal-vagal
 
-#### Tier 4 — Unique Mechanisms (1/16 — therapy-exclusive)
+#### Tier 4 — Unique Mechanisms (1/15 — therapy-exclusive)
 
 These mechanisms exist in ONLY ONE therapy. They represent that therapy's most distinctive mechanistic contribution.
 
@@ -341,7 +337,7 @@ Transcriptional anti-inflammatory  B16       Bower 2014: NF-κB↓, GR↑ at
                                               circulating cytokines. 🟡
 ```
 
-**Count:** 15 unique mechanisms across 8 therapies. B01 has the most (3), followed by B08 (3), B07 (2), B10 (2), B16 (3). Eight therapies (B02, B03, B04, B05, B06, B11, B13, B14, B15) have NO truly unique mechanisms — their effects arise from shared mechanisms deployed differently.
+**Count:** 15 unique mechanisms across 8 therapies. B01 has the most (3), followed by B08 (3), B07 (2), B10 (2), B16 (3). Seven therapies (B02, B03, B04, B06, B11, B13, B14, B15) have NO truly unique mechanisms — their effects arise from shared mechanisms deployed differently.
 
 **The Uniqueness Paradox:** B01 acupuncture has the most unique mechanisms AND the broadest shared mechanism engagement (47 total mechanism entries). B14 craniosacral has zero unique mechanisms AND the weakest shared mechanism engagement. Mechanistic richness correlates with both uniqueness AND breadth. 🟡
 
@@ -393,11 +389,6 @@ B12       "Energy disruption"        🔴 UNSUPPORTED          Somatic component
           tapping corrects flow)      sham d=-0.38, p=0.12   Cognitive component
                                       NS)                    (exposure) works.
 
-B05       257 BQC point → organ      🔴 UNVALIDATED          PARTIAL. Nerve
-          specificity (Dien Chan      (no reliability data;   territory (CN V)
-          projection maps)            3 broad V zones, NOT    is REAL mechanism.
-                                      257 specific points)    257 points = scaffold.
-
 B13       Kyo/Jitsu meridian         🔴 UNVALIDATED          Hara diagnosis =
           diagnosis (Masunaga Zen     (no reliability data;   scaffolding.
           Shiatsu extended meridians)  Namikoshi works         But physical stimulus
@@ -415,7 +406,7 @@ B10       Subluxation as disease     🔴 UNSUPPORTED          Historical scaffo
 
 Despite mechanistic invalidity, scaffolding serves real therapeutic functions:
 
-1. **Protocol structure** — gives practitioner a systematic procedure (B06: 60-min foot coverage; B14: 10-step protocol; B05: 30+ maps for any complaint). Without scaffolding, treatment becomes unstructured touching. 🟡
+1. **Protocol structure** — gives practitioner a systematic procedure (B06: 60-min foot coverage; B14: 10-step protocol). Without scaffolding, treatment becomes unstructured touching. 🟡
 
 2. **Patient narrative** — gives patient an explanation ("your kidney zone needs work" = comprehensible, even if anatomically wrong). Understanding → sense of control → reduced anxiety → better outcomes. B16 self-efficacy data: narrative mediates 36% of disability effect (PMC9510936). 🟢
 
@@ -465,7 +456,7 @@ B16        Prana/Nadi/Chakra theory           GABA hypothesis, pranayama,
 
 ### §3.5 — Specific-to-Non-Specific Mechanism Spectrum
 
-Ranking all 16 therapies from most mechanism-specific to most non-specific, based on: number of unique mechanisms, confidence level of specific mechanisms, ratio of specific to non-specific contribution.
+Ranking all 15 therapies from most mechanism-specific to most non-specific, based on: number of unique mechanisms, confidence level of specific mechanisms, ratio of specific to non-specific contribution.
 
 ```
 RANK  THERAPY                UNIQUE MECHS  SPEC. CONFIDENCE  PROFILE
@@ -512,23 +503,19 @@ RANK  THERAPY                UNIQUE MECHS  SPEC. CONFIDENCE  PROFILE
                               pranayama,     activating         depends on style.
                               transcription)  pranayama          Component gap.
 
-12    B05 Dien Chan          0 unique       🟡 trigeminal     Territory real,
-                              (trigeminal =   gateway 🟡;      points = scaffold.
-                              shared pathway) 257 pts 🔴        ~0 RCTs.
-
-13    B13 Shiatsu            0 unique       ALL 🟡 (inferred  Zero dedicated
+12    B13 Shiatsu            0 unique       ALL 🟡 (inferred  Zero dedicated
                                              from B02/B03)     mechanism studies.
 
-14    B06 Reflexology        0 unique       🔴 zone-specific  Non-specific
+13    B06 Reflexology        0 unique       🔴 zone-specific  Non-specific
                               (zone effects   UNSUPPORTED       dominance model.
                               UNSUPPORTED)                      All effects from
                                                                general foot massage.
 
-15    B12 EFT Tapping        1 (exposure    🟢 cognitive      Cognitive works
+14    B12 EFT Tapping        1 (exposure    🟢 cognitive      Cognitive works
                               — but shared   component; 🔴     (shared w/ CBT).
                               w/ CBT)        somatic            Somatic near-zero.
 
-16    B14 Craniosacral       0 unique       🔴 ALL stated     Effects entirely
+15    B14 Craniosacral       0 unique       🔴 ALL stated     Effects entirely
                                              mechanisms         non-specific.
                                              CONTRADICTED       Theory = placebo.
 ```
@@ -537,7 +524,7 @@ RANK  THERAPY                UNIQUE MECHS  SPEC. CONFIDENCE  PROFILE
 
 **Group A — Mechanistically Rich** (B01, B08, B04, B10, B09, B07): Multiple specific mechanisms at 🟢 confidence. Unique mechanisms distinguish them. Clinical effects primarily from specific pathways.
 
-**Group B — Mechanistically Moderate** (B11, B03, B02, B15, B16, B05, B13): Effects from shared mechanisms deployed with therapy-specific parameters. No truly unique mechanisms (or unique mechanisms at 🟡). Clinical effects from a MIX of specific and non-specific.
+**Group B — Mechanistically Moderate** (B11, B03, B02, B15, B16, B13): Effects from shared mechanisms deployed with therapy-specific parameters. No truly unique mechanisms (or unique mechanisms at 🟡). Clinical effects from a MIX of specific and non-specific.
 
 **Group C — Mechanistically Weak** (B06, B12, B14): Stated mechanisms unsupported or contradicted. Clinical effects (when present) primarily from non-specific pathways (relaxation, context, Evaluative Gates). B12 partially redeemed by cognitive component (but that's CBT, not body therapy).
 
@@ -561,7 +548,7 @@ DEPTH                    MECHANISMS ADDED                THERAPIES
 Surface skin (<5N)       CT afferents, gate control      B14, B03-light
                          (Aβ only), oxytocin
 Subcutaneous (5-40N)     Somatovisceral reflex, vagal    B02, B03-mod,
-                         shift, thixotropy               B05, B06, B13
+                         shift, thixotropy               B06, B13
 Deep fascia (40-65N)     endocannabinoid system ACTIVATION (threshold),     B03-deep, B04,
                          mechanotransduction (Crane)      B01 (needle reaches)
 Muscle (65-110+N)        Descending modulation (PAG),    B04-deep, B03-deep,
@@ -626,18 +613,18 @@ Patterns discovered from the cross-reference that are NOT visible in individual 
 
 ### §4.1 — The Mechanism Inequality Distribution 🟡
 
-Mechanism occurrence across 16 therapies follows a power law, not a normal distribution:
+Mechanism occurrence across 15 therapies follows a power law, not a normal distribution:
 
 ```
 Occurrence    # of mechanism types    Examples
 ────────────  ────────────────────── ────────────────────────
-≥10/16          7 types (14%)         Gate control, parasympathetic,
+≥10/15          7 types (14%)         Gate control, parasympathetic,
                                       evaluative gates, opioids
-5-9/16         13 types (25%)         Mechanotransduction, endocannabinoid system,
+5-9/15         13 types (25%)         Mechanotransduction, endocannabinoid system,
                                       DNIC, vagal anti-inflammatory
-2-4/16         16 types (31%)         HO-1, collagen winding,
+2-4/15         16 types (31%)         HO-1, collagen winding,
                                       voluntary ANS, LTR
-1/16           15 types (29%)         PROKR2, HSP, GABA, HIF-1α
+1/15           15 types (29%)         PROKR2, HSP, GABA, HIF-1α
 ```
 
 **14% of mechanisms account for the majority of therapeutic coverage.** The top 7 mechanisms (gate control, parasympathetic shift, evaluative gates, cortisol, opioids, descending modulation, vasodilation) are engaged by almost all therapies. This means the BASE therapeutic effect is similar across therapies — differentiation comes from the TAIL of specific mechanisms.
@@ -855,7 +842,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 ### §8.2 — Track B Files Referenced
 
-All 16 Track B files (B01-B16) were referenced, primarily:
+All 15 Track B files were referenced, primarily:
 - **§5 (Proposed Mechanisms):** Primary data source — all mechanism models extracted and cataloged
 - **§6 (Body System Pathways):** Activation profiles used via C01 standardization
 - **§9 (Evidence Assessment):** Evidence tier classification for scaffolding analysis

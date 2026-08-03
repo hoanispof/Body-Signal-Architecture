@@ -1332,7 +1332,6 @@ date: 2026-07-31
   │  UNIQUE STRENGTH:                                                  │
   │    → Gua sha has BETTER mechanism science than clinical evidence  │
   │    → Same pattern as B03 massage (mechanism > trials)             │
-  │    → Unlike B05 Dien Chan (weak mechanism AND weak evidence)      │
   │    → → The mechanism science is STRONG enough to explain          │
   │      the clinical observations, even if clinical trial            │
   │      quality is low                                                │
@@ -1346,7 +1345,6 @@ date: 2026-07-31
     B07 Cupping:     ★★★☆☆ mechanism + ★★★☆☆ clinical
     B09 Gua Sha:     ★★★★☆ mechanism + ★★☆☆☆ clinical ← HERE
     B11 Dry Needling:★★★★☆ mechanism + ★★★☆☆ clinical
-    B05 Dien Chan:   ★★☆☆☆ mechanism + ★☆☆☆☆ clinical
     B06 Reflexology:  ★★☆☆☆ mechanism + ★★☆☆☆ clinical
 
   🟡 Overall evidence assessment — synthesis

@@ -1698,8 +1698,6 @@ essentially no standalone mechanism research.
   B04 — Deep Tissue: reaches deep fascia (CB1/CB2, endocannabinoid system).
     B08 too superficial for this pathway.
 
-  B05 — Dien Chan: both use specific points. But B05 = mechanical
-    on face (CN V), B08 = thermal at body points.
 ```
 
 ### §11.4 Key Citations

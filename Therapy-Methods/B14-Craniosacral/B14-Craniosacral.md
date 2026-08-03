@@ -35,8 +35,7 @@ date: 2026-07-31
 > case study in the entire project.
 >
 > **Key comparison:** B06 Reflexology (zone map unsupported, non-specific
-> effects real), B05 Dien Chan (BQC points unsupported beyond broad
-> trigeminal territory), B12 EFT (somatic contribution uncertain).
+> effects real), B12 EFT (somatic contribution uncertain).
 > B14 goes further than all three: its foundational ANATOMICAL claim
 > (cranial bone mobility) is contradicted by established anatomy.
 
@@ -96,8 +95,8 @@ date: 2026-07-31
   │     → Assessment and treatment are simultaneous                     │
   │     → "Listening" with hands → detecting "restrictions" →           │
   │       applying gentle holds until restriction "releases"            │
-  │     → Parallels: B13 Shiatsu Hara diagnosis, B06 Ingham map,       │
-  │       B05 BQC face map — all unvalidated diagnostic systems         │
+  │     → Parallels: B13 Shiatsu Hara diagnosis, B06 Ingham map        │
+  │       — all unvalidated diagnostic systems                          │
   │                                                                     │
   │  5. LONG SESSION DURATION                                           │
   │     → Typical: 45-90 minutes (longer than most Track B therapies)   │
@@ -595,9 +594,8 @@ date: 2026-07-31
   ┌───────────────────┬────────────────────┬──────────────────────────┐
   │  CONTACT AREA     │  NERVE TERRITORY   │  IMPLICATIONS            │
   ├───────────────────┼────────────────────┼──────────────────────────┤
-  │  Forehead/temple  │  CN V (trigeminal) │  Same territory as B05   │
-  │                   │  V1, V2, V3        │  Dien Chan. Direct       │
-  │                   │                    │  brainstem projections.   │
+  │  Forehead/temple  │  CN V (trigeminal) │  Direct brainstem        │
+  │                   │  V1, V2, V3        │  projections.            │
   │                   │                    │  Trigeminal→DMN pathway. │
   ├───────────────────┼────────────────────┼──────────────────────────┤
   │  Scalp (parietal/ │  Greater/lesser    │  C2-C3 dermatome.        │
@@ -662,8 +660,6 @@ date: 2026-07-31
   │  (cranial vault) │  (likely     │  (full hand │  rhythm" detection│
   │                  │  20-500g)    │  on skull)  │  🔴 Unsupported   │
   ├──────────────────┼──────────────┼─────────────┼───────────────────┤
-  │  B05 Dien Chan   │  1-5 N       │  Point-     │  Trigeminal →     │
-  │  (face)          │  per point   │  specific   │  brainstem 🟡     │
   ├──────────────────┼──────────────┼─────────────┼───────────────────┤
   │  B02 Auricular   │  1-3 N       │  Point-     │  ABVN → vagal     │
   │  acupressure     │              │  specific   │  🟢 Validated     │
@@ -693,7 +689,7 @@ date: 2026-07-31
 🟢 EVIDENCE LANDSCAPE:
 
   VOLUME: ~30-40 RCTs (as of 2025) — substantially MORE than
-  B05 Dien Chan (~0) or B13 Shiatsu (~1-2), but QUALITY remains low.
+  B13 Shiatsu (~1-2), but QUALITY remains low.
 
   PROBLEM: Most RCTs have critical methodological limitations:
     → No adequate sham/placebo (practitioner unblindable)
@@ -1106,13 +1102,13 @@ date: 2026-07-31
       but MISATTRIBUTING it to craniosacral mechanism
 
   🟡 FRAMEWORK PARALLEL:
-    This parallels B05 Dien Chan BQC map and B06 Ingham map — in all
-    three cases, the DIAGNOSTIC FRAMEWORK is unsupported, but the
-    THERAPEUTIC CONTEXT (gentle touch + focused attention + calm
-    environment + practitioner confidence) may still produce effects.
-    B14's CSR unreliability is WORSE than B05/B06 because those
-    systems at least have FIXED maps — CSR should be a measurable
-    physiological signal and it isn't.
+    This parallels B06 Ingham foot map — in both cases, the
+    DIAGNOSTIC FRAMEWORK is unsupported, but the THERAPEUTIC CONTEXT
+    (gentle touch + focused attention + calm environment +
+    practitioner confidence) may still produce effects. B14's CSR
+    unreliability is WORSE than B06 because reflexology at least has
+    a FIXED map — CSR should be a measurable physiological signal
+    and it isn't.
 
   🟢 Moran & Gibbons 2001 (r=0.004, J Manipulative Physiol Ther)
   🟢 Hartman & Norton 2002 (very low reliability)
@@ -1336,7 +1332,6 @@ date: 2026-07-31
 
   Compare to other therapies with mechanism gaps:
     B06 Reflexology: claims organ-specific → delivers non-specific
-    B05 Dien Chan: claims 257 points → 3 trigeminal zones
     B12 EFT: claims acupoint activation → cognitive-behavioral
     B10 Subluxation: claims disease cause → delivers sensory input
 
@@ -1577,7 +1572,7 @@ date: 2026-07-31
 ### §9.1 — Overall Evidence Quality
 
 ```
-🟢 EVIDENCE TIER: 5 (WEAKEST) — alongside B05 Dien Chan, B13 Shiatsu
+🟢 EVIDENCE TIER: 5 (WEAKEST) — alongside B13 Shiatsu
 
   ┌─────────────────────────────────────────────────────────────────────┐
   │                                                                     │
@@ -1591,7 +1586,7 @@ date: 2026-07-31
   │       is not just unproven but CONTRADICTED                        │
   │                                                                     │
   │  ② CLINICAL EVIDENCE: LOW-MODERATE volume but LOW quality           │
-  │     → ~30-40 RCTs (more than B05/B13)                               │
+  │     → ~30-40 RCTs (more than B13)                                    │
   │     → Most studies: small, unblinded, vs waitlist/usual care        │
   │     → Haller 2020 MA: vs passive SMD -0.32 (small effect)          │
   │     → vs active controls: NS                                       │
@@ -1608,8 +1603,6 @@ date: 2026-07-31
   ┌────────────────┬────────────────────┬──────────────────────────────┐
   │  THERAPY       │  WHY TIER 5        │  DISTINGUISHING FEATURE      │
   ├────────────────┼────────────────────┼──────────────────────────────┤
-  │  B05 Dien Chan │  ~0 RCTs on Dien   │  But trigeminal territory =  │
-  │                │  Chan specifically  │  validated nerve pathway     │
   ├────────────────┼────────────────────┼──────────────────────────────┤
   │  B13 Shiatsu   │  Only 1 proper RCT │  But shares validated        │
   │                │  (Kobayashi 2019)  │  B02 mechanisms              │
@@ -1895,10 +1888,6 @@ date: 2026-07-31
   → B13 Shiatsu (§9): Shares TIER 5 status. But B13 at least shares
     B02's validated mechanisms; B14's claimed mechanisms are unique
     AND unsupported.
-
-  → B05 Dien Chan (§9, line 1436): "~20+ RCTs" — similar evidence
-    volume. Both have unsupported specific claims but potentially
-    valid non-specific mechanisms.
 
   → B03 Massage (comparison): light massage produces similar
     relaxation/comfort outcomes with MUCH stronger evidence and

@@ -512,7 +512,6 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │                                                                         │
   │  B01 (Acupuncture): specific acupoints (TCM/neuroanatomical mapping)   │
   │  B02 (Acupressure): same points, pressure instead of needles           │
-  │  B05 (Dien Chan): 257 BQC facial points                               │
   │  B06 (Reflexology): foot zone map                                      │
   │                                                                         │
   │  B04: targets TISSUE STRUCTURES, not predetermined points:              │
@@ -668,7 +667,6 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │  B01 (Acupuncture): thousands of RCTs → FAR more evidence              │
   │  B03 (Massage-General): hundreds of RCTs → more evidence               │
   │  B04: ~85 RCTs across all sub-modalities → MODERATE                    │
-  │  B05 (Dien Chan): ~0 RCTs → far less                                   │
   │  B06 (Foot Reflexology): ~50-80 RCTs → comparable                      │
   └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -1468,7 +1466,6 @@ See §1.4 above — traditional explanations already documented:
     B03 (Massage-Gen):  A01 dominant (broadest engagement)
     B04 (Deep Tissue):  A03 dominant ⭐ + A01+A08+A06 strong
     B07 (Cupping):      A04 dominant (vascular, HO-1)
-    B05 (Dien Chan):    A01+A02 dominant (trigeminal-vagal)
     B06 (Reflexology):  A01 moderate only (weakest profile)
     B11 (Dry Needling): A01+A08 dominant (L1-L2 local+segmental)
 
@@ -1853,9 +1850,8 @@ See §1.4 above — traditional explanations already documented:
   ⑦ Outcome measures unclear (what does "alignment with gravity" mean
      in measurable terms?)
 
-  PARALLEL: B05 Dien Chan evidence gap (geopolitical/linguistic barrier)
-  vs B04 Rolfing evidence gap (professional/economic/methodological).
-  Different barriers, same result: prolonged practice without validation.
+  B04 Rolfing evidence gap (professional/economic/methodological barrier)
+  = prolonged practice without validation.
 
   🔴 This is NOT evidence of absence — absence of evidence ≠ absence
   of effect. But the SPECIFIC claims of Rolfing (gravitational alignment,

@@ -169,7 +169,7 @@ activation — all produce therapeutic effects within Levels 0-1, below spinal
 cord. The driver layer is not just a transit zone; it IS therapeutic territory
 (D01 §5.2 "Gap 2 partial dissolution"). 🟡
 
-**Principle 4: Mechanical dominance.** 15 of 16 body therapies in Track B use
+**Principle 4: Mechanical dominance.** 14 of 15 body therapies in Track B use
 mechanical stimulus as primary input. Only B08 (moxibustion) is purely thermal.
 The body's therapeutic infrastructure is overwhelmingly a MECHANOTRANSDUCTION
 network. 🟢
@@ -273,7 +273,7 @@ Foot sole      L4-S3 spinal ONLY         NO special pathway.        7th
 
 **The face-ear-foot triangle:** Three body regions have reflexology/microsystem
 traditions. Their neural pathway hierarchy explains outcome differences:
-- **Face (B05 Dien Chan):** CN V → brainstem DIRECT → eTNS FDA-approved
+- **Face:** CN V → brainstem DIRECT → eTNS FDA-approved
   for migraine/ADHD → nerve territory REAL despite unvalidated point map
 - **Ear (auricular B01/B02):** ABVN → NTS → vagal DIRECT → taVNS validated
   → pathway REAL
@@ -324,7 +324,7 @@ at different timescales. 🟡
 ### §2.4 Stimulus — Reception Infrastructure
 
 The body's infrastructure responds differently to different stimulus types.
-10 stimulus types identified across 16 therapies (C01 main taxonomy):
+10 stimulus types identified across 15 therapies (C01 main taxonomy):
 
 ```
 TYPE                    PRIMARY SYSTEMS      DOMINANT FINGERPRINT
@@ -450,7 +450,7 @@ Each system's role in the integrated network. For full detail → Track A files.
 control, descending modulation, axon reflex, somatovisceral reflex,
 purinergic) are engaged by body therapy. CT afferents (1-10 cm/s, hairy skin
 only) = affective touch pathway → posterior insula (interoceptive cortex).
-Reaches Level 0-2. Referenced by ALL 16 Track B therapies.
+Reaches Level 0-2. Referenced by ALL 15 Track B therapies.
 → A01-Peripheral-Nervous-System.md
 
 ### §4.2 A02 — Autonomic Nervous System (REGULATION)

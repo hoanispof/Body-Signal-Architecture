@@ -452,11 +452,10 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │    V1 + C2: TH (GV20)                                               │
   └──────────────────────────────────────────────────────────────────────┘
 
-  ⭐ B12-B05 TRIGEMINAL CONVERGENCE:
+  ⭐ TRIGEMINAL NERVE TERRITORY SIGNIFICANCE:
 
-    EFT and Dien Chan (B05) share the SAME primary nerve territory:
-    the trigeminal nerve (CN V). B05's Trigeminal Gateway Model
-    describes direct connections from CN V to brainstem:
+    56% of EFT points are in trigeminal nerve (CN V) territory.
+    The trigeminal nerve has direct connections from CN V to brainstem:
 
     Face stimulation → CN V → trigeminal nucleus →
       → Dorsal Motor Nucleus of Vagus (DMN) → vagal output
@@ -465,29 +464,27 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
       → Dorsal Raphe Nucleus (DRN) → serotonin modulation
 
     IF this pathway is activated by EFT's light tapping
-    (a significant IF — B05 uses sustained pressure),
+    (a significant IF — other facial therapies use sustained pressure),
     it would provide a plausible autonomic mechanism for
     the face-point portion of the protocol.
 
     CRITICAL UNCERTAINTY:
-    → B05 (Dien Chan): sustained pressure/rolling → trigeminal
-    → B12 (EFT): brief light tapping → trigeminal?
     → Is brief percussive stimulus sufficient to activate the
-      trigeminal-vagal pathway? UNKNOWN — no direct comparison
+      trigeminal-vagal pathway? UNKNOWN — no direct study exists
     → eTNS (Cefaly device, electrical, FDA-approved) confirms
       V1 stimulation → therapeutic effect, but uses ELECTRICAL
       stimulus, not mechanical tapping
     → The threshold question remains OPEN
 
   NO POINT SPECIFICITY WITHIN FACE:
-    → Unlike B01 (acupuncture) or B05 (Dien Chan), EFT does NOT
-      claim specific organ-point correspondence
+    → Unlike B01 (acupuncture), EFT does NOT claim specific
+      organ-point correspondence
     → ALL face points are tapped in EVERY round regardless of
       the condition being treated
     → This is consistent with a NON-SPECIFIC trigeminal activation
       model rather than point-specific somatovisceral reflexes
 
-  🟡 Trigeminal analysis: synthesis from A01, A02, B05
+  🟡 Trigeminal analysis: synthesis from A01, A02, and eTNS literature
   🔴 Whether light tapping activates trigeminal-vagal: untested
 ```
 
@@ -496,34 +493,34 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 ```
 🟡 EFT POINTS vs OTHER TRACK B POINT SYSTEMS:
 
-  ┌──────────────┬──────────┬──────────┬──────────┬───────────────────┐
-  │              │ B01      │ B02      │ B05      │ B12               │
-  │              │ Acupunct.│ Acupress.│ Dien Chan│ EFT               │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ # Points     │ 361+     │ 361+     │ 257      │ 9 (fixed)         │
-  │ used         │ (select) │ (select) │ (select) │ ALL, EVERY time   │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Point        │ YES      │ YES      │ YES      │ NO                │
-  │ selection    │ per Dx   │ per Dx   │ per Dx   │ universal set     │
-  │ varies by    │          │          │          │                   │
-  │ condition?   │          │          │          │                   │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Stimulus     │ needle   │ sustained│ pressure/│ light tapping     │
-  │ type         │ insert   │ pressure │ rolling  │ (percussive)      │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Duration at  │ 15-30min │ 1-3 min  │ 30-60s   │ 3-5 sec           │
-  │ each point   │ (retain) │          │          │                   │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Cognitive    │ NONE     │ NONE     │ NONE     │ YES (defining     │
-  │ component    │ (implied)│ (implied)│ (implied)│ feature)          │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Specificity  │ HIGH     │ HIGH     │ MODERATE │ NONE              │
-  │ claim        │ (organ-  │ (organ-  │ (zone-   │ (universal)       │
-  │              │ point)   │ point)   │ organ)   │                   │
-  ├──────────────┼──────────┼──────────┼──────────┼───────────────────┤
-  │ Self-admin   │ NO       │ YES      │ YES      │ YES (primary      │
-  │              │          │ (common) │          │ delivery mode)    │
-  └──────────────┴──────────┴──────────┴──────────┴───────────────────┘
+  ┌──────────────┬──────────┬──────────┬───────────────────┐
+  │              │ B01      │ B02      │ B12               │
+  │              │ Acupunct.│ Acupress.│ EFT               │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ # Points     │ 361+     │ 361+     │ 9 (fixed)         │
+  │ used         │ (select) │ (select) │ ALL, EVERY time   │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Point        │ YES      │ YES      │ NO                │
+  │ selection    │ per Dx   │ per Dx   │ universal set     │
+  │ varies by    │          │          │                   │
+  │ condition?   │          │          │                   │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Stimulus     │ needle   │ sustained│ light tapping     │
+  │ type         │ insert   │ pressure │ (percussive)      │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Duration at  │ 15-30min │ 1-3 min  │ 3-5 sec           │
+  │ each point   │ (retain) │          │                   │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Cognitive    │ NONE     │ NONE     │ YES (defining     │
+  │ component    │ (implied)│ (implied)│ feature)          │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Specificity  │ HIGH     │ HIGH     │ NONE              │
+  │ claim        │ (organ-  │ (organ-  │ (universal)       │
+  │              │ point)   │ point)   │                   │
+  ├──────────────┼──────────┼──────────┼───────────────────┤
+  │ Self-admin   │ NO       │ YES      │ YES (primary      │
+  │              │          │ (common) │ delivery mode)    │
+  └──────────────┴──────────┴──────────┴───────────────────┘
 
   KEY DIFFERENCES:
   → B12 uses the FEWEST points with the LEAST specificity
@@ -534,8 +531,8 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
     chosen for specific organ connections
 
   This pattern suggests that B12's point selection serves a
-  DIFFERENT function than in B01/B02/B05:
-    → B01/B02/B05: points chosen for organ-specific effects
+  DIFFERENT function than in B01/B02:
+    → B01/B02: points chosen for organ-specific effects
     → B12: points chosen for NEUROANATOMICAL COVERAGE
       (trigeminal V1/V2/V3 + cervical + thoracic)
     → The "meridian endpoint" framing may be post-hoc rationalization
@@ -627,7 +624,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
     → 15 meta-analyses identified
     → 15+ systematic reviews
     → This volume is UNUSUALLY LARGE for a complementary therapy
-      (more RCTs than B05 Dien Chan, B06 Reflexology, B14 Craniosacral)
+      (more RCTs than B06 Reflexology or B14 Craniosacral)
     → BUT: volume ≠ quality (see §9)
 
   🟢 Meta-analytic data: published in peer-reviewed journals
@@ -931,7 +928,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 🟡 TRIGEMINAL-VAGAL HYPOTHESIS — FACE POINTS:
 
   56% of EFT points are in trigeminal nerve territory.
-  B05 (Dien Chan) documents the trigeminal-brainstem pathway:
+  The trigeminal-brainstem pathway is well-characterized:
 
     Face stimulation → CN V → trigeminal nucleus →
       → DMN → parasympathetic (vagal) output
@@ -946,7 +943,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
       body tapping points in EFT)
 
   CRITICAL UNCERTAINTIES:
-    → Light tapping ≠ sustained pressure (B05) ≠ electrical (eTNS)
+    → Light tapping ≠ sustained pressure ≠ electrical (eTNS)
     → Is percussive stimulus sufficient for trigeminal activation?
     → Duration: ~3 seconds per face point per round = very brief
     → No study has measured trigeminal-vagal activation during EFT
@@ -959,7 +956,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   the carotid sheath — surface tapping at the clavicle does NOT
   directly stimulate it.
 
-  🟡 Trigeminal pathway exists (B05, eTNS evidence)
+  🟡 Trigeminal pathway exists (eTNS evidence, neuroanatomy)
   🔴 Whether EFT's light brief tapping activates it: unknown
 ```
 
@@ -1423,7 +1420,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │                                                                      │
   │  SPECTRUM: SOMATIC ←──────────────────────────────→ COGNITIVE       │
   │                                                                      │
-  │  B01 B04 B07 B09 B03 B10 B08 B11 B02 B15 B16 B05 B06  │ B12      │
+  │  B01 B04 B07 B09 B03 B10 B08 B11 B02 B15 B16 B06      │ B12      │
   │  ██████████████████████████████████████████████████████  │ ████████ │
   │                                                          │          │
   │  ← Pure somatic therapies ────────────────────────────→  │ Dual     │
@@ -1524,7 +1521,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 🟡 EVIDENCE STRENGTHS:
 
   1. UNUSUALLY LARGE RCT BASE FOR COMPLEMENTARY THERAPY:
-     → 69+ RCTs is substantial — more than B05, B06, B13, B14
+     → 69+ RCTs is substantial — more than B06, B13, or B14
      → 5+ meta-analyses with consistent positive findings
      → Effect sizes large against waitlist/no-treatment
 
@@ -1644,7 +1641,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   │               │   no guideline endorsement                       │
   │               │ → B06: sham = verum, zone map unsupported        │
   ├───────────────┼───────────────────────────────────────────────────┤
-  │ TIER 5        │ B05 Dien Chan, B13 Shiatsu, B14 Craniosacral    │
+  │ TIER 5        │ B13 Shiatsu, B14 Craniosacral                   │
   │ (Minimal)     │ → Near-zero controlled evidence                  │
   └───────────────┴───────────────────────────────────────────────────┘
 
@@ -1688,7 +1685,7 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
 
   Q3 — TRIGEMINAL-VAGAL ACTIVATION FROM BRIEF TAPPING?
     → Can ~3 seconds of light tapping per face point activate
-      the trigeminal-vagal pathway (B05 mechanism)?
+      the trigeminal-vagal pathway?
     → Needs direct measurement: HRV, vagal tone, or fMRI
       during face-tapping vs body-tapping vs no-tapping
     → If YES: supports face-point importance
@@ -1782,14 +1779,6 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
     → B02 §11.3: "tapping (NOT sustained pressure) + cognitive elements"
     → B02 §7: different receptor activation (RA dominant in B12)
     → B12 confirms B02's distinction was correct
-
-  B05 (Dien Chan) — SHARED TRIGEMINAL TERRITORY:
-    → Both stimulate face (CN V territory)
-    → B05 Trigeminal Gateway Model applies to B12 face points
-    → B05 uses sustained pressure/rolling; B12 uses brief tapping
-    → B05 §4: "~15+ RCTs" for EFT (confirmed: 69+ by 2025)
-    → Whether B12's lighter stimulus activates the same pathway
-      is an open question
 
   B06 (Reflexology) — STRUCTURAL PARALLEL:
     → B06 Non-Specific Mechanism Dominance Model parallels B12
@@ -1916,7 +1905,6 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
   → Moyer CA et al. (2011). Cortisol between-group reappraisal.
     J Clin Psychiatry. [d=0.05-0.30]
   → Field T et al. (2005). Cortisol reduction from massage.
-  → B05 Dien Chan: Trigeminal Gateway Model
   → B06 Reflexology: Non-Specific Mechanism Dominance Model
   → B02 Acupressure: Pressure-Point Divergence Model
 

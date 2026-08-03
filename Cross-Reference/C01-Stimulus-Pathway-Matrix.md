@@ -22,8 +22,8 @@ This matrix answers that question by abstracting from therapy identity to stimul
 
 ### §1.2 — Data Sources
 
-- **Stimulus classification:** Extracted from all 16 Track B §2 (Stimulation Type) sections
-- **Activation profiles:** Extracted from all 16 Track B §6 (Body System Pathways Activated) sections
+- **Stimulus classification:** Extracted from all 15 Track B §2 (Stimulation Type) sections
+- **Activation profiles:** Extracted from all 15 Track B §6 (Body System Pathways Activated) sections
 - **System definitions:** Track A files A01-A09
 
 ### §1.3 — Standardization Decisions
@@ -52,7 +52,7 @@ Assignment criteria:
 
 ### §2.1 — Stimulus Type Taxonomy
 
-Ten primary stimulus types were identified across 16 Track B therapies. Classification is based on the PHYSICAL NATURE of the stimulus — the mechanical, thermal, or electrical input applied to tissue.
+Ten primary stimulus types were identified across 15 Track B therapies. Classification is based on the PHYSICAL NATURE of the stimulus — the mechanical, thermal, or electrical input applied to tissue.
 
 ```
 MECHANICAL (9 types)                              NON-MECHANICAL (1 type)
@@ -88,7 +88,7 @@ MECHANICAL (9 types)                              NON-MECHANICAL (1 type)
 - Physical: Perpendicular pressure applied to specific anatomical points via thumb, finger, or tool; held 3-120 seconds per point
 - Creates: localized tissue compression, mechanoreceptor activation (primarily Aβ), possible Aδ at high force
 - Unique: Combines pressure with point specificity — same locations as acupuncture but without tissue penetration
-- Therapies: B02 Acupressure (PRIMARY), B05 Dien Chan (PRIMARY, facial), B06 Reflexology (PRIMARY, foot), B13 Shiatsu (PRIMARY, whole-body), B14 Craniosacral (PRIMARY, ultra-light cranial)
+- Therapies: B02 Acupressure (PRIMARY), B06 Reflexology (PRIMARY, foot), B13 Shiatsu (PRIMARY, whole-body), B14 Craniosacral (PRIMARY, ultra-light cranial)
 - Parameter range: force 5-80N, contact area 1-4 cm², duration 3-120 sec/point, 4-660+ points/session
 - Note: Activation profile is STRONGLY region-dependent (face vs. ear vs. body vs. foot → C04)
 - 🟢 Physical parameters well-characterized (B02 §2)
@@ -149,7 +149,7 @@ MECHANICAL (9 types)                              NON-MECHANICAL (1 type)
 - Unique: WEAKEST somatic stimulus in Track B. In B12 (EFT), combined with a cognitive protocol (exposure + acceptance + restructuring) that is the likely primary active ingredient.
 - Therapies: B12 EFT Tapping (PRIMARY)
 - Parameter range: force ~2-5N, speed ~2 taps/sec, ~3-5 sec/point, ~30-40 sec total somatic contact per round
-- Note: B03 tapotement and B05 tapping variant use similar physical stimulus but with different protocols and contexts
+- Note: B03 tapotement uses similar physical stimulus but with different protocol and context
 - 🟡 Physical parameters estimated, not measured in any EFT study
 
 **10. SELF-GENERATED MOVEMENT (Active Composite)**
@@ -199,7 +199,7 @@ VAS=Vascular-Lymphatic, NIM=Neuroimmune, END=Endocrine-Local, DRM=Dermatome-Soma
 MTJ=Muscle-Tendon-Joint, MER=Meridian-Composite
 ```
 
-Confidence: 🟡 Synthesis — levels derived from standardizing 16 Track B §6 profiles. Individual cell evidence ranges from 🟢 (well-supported) to 🔴 (inferred from mechanism plausibility).
+Confidence: 🟡 Synthesis — levels derived from standardizing 15 Track B §6 profiles. Individual cell evidence ranges from 🟢 (well-supported) to 🔴 (inferred from mechanism plausibility).
 
 ### §3.1.1 — Detailed Notes: PENETRATION
 
@@ -225,7 +225,7 @@ Confidence: 🟡 Synthesis — levels derived from standardizing 16 Track B §6 
 
 **A01 PNS = STRONG.** Primarily Aβ gate control (dominant mechanism). Somatovisceral reflex shared with penetration. Descending modulation reduced — deep acupressure may recruit some Aδ, but less than needle penetration. CT afferents available for light techniques (Jin Shin Jyutsu-style, 5-10N) on hairy skin. 4/5 PNS mechanisms available (purinergic absent — no 24× adenosine without tissue penetration). 🟢 B02 §6.1.
 
-**A02 ANS = STRONG.** Somatoautonomic reflex fully shared. Baroreceptor-like vagal response documented. Auricular acupressure uniquely accesses ABVN → NTS → direct vagal pathway (B02 §2.4). Facial point pressure accesses CN V → brainstem vagal (DMN) directly (B05 §2.1). Body-region variability makes this STRONG overall but regionally PRIMARY (ear, face). 🟢 B02 §6.1, B05 §6.1.
+**A02 ANS = STRONG.** Somatoautonomic reflex fully shared. Baroreceptor-like vagal response documented. Auricular acupressure uniquely accesses ABVN → NTS → direct vagal pathway (B02 §2.4). Facial point pressure accesses CN V → brainstem vagal (DMN) directly (A02 §4.7). Body-region variability makes this STRONG overall but regionally PRIMARY (ear, face). 🟢 B02 §6.1.
 
 **A03 Fascia = MODERATE.** Mechanotransduction partially available through force transmission. HA metabolism and thixotropy available at sufficient pressure. Needle grasp ABSENT — the single biggest mechanism loss compared to penetration (B02 §5.3). Force transmission attenuated with depth. 🟡 B02 §6.1.
 
@@ -365,7 +365,7 @@ Confidence: 🟡 Synthesis — levels derived from standardizing 16 Track B §6 
 
 **A01 PNS = MINIMAL.** Only rapidly-adapting Aβ mechanoreceptors (Meissner, Pacinian) activated. Gate control minimal — ceases within milliseconds of stopping. 0-1 of 5 PNS mechanisms at minimal intensity. B12 §6.1: "the WEAKEST somatic stimulus in Track B." 🟢 B12 §2.2, §6.1.
 
-**A02 ANS = MINIMAL.** Possible trigeminal-vagal pathway (56% of EFT points are on the face = CN V territory, shared with B05 Dien Chan). Cortisol reduction observed (Church 2012 ↓24%) but likely from cognitive/exposure component, not somatic. Status: uncertain, listed as MINIMAL due to insufficient evidence that the tapping itself (vs. the cognitive protocol) drives ANS effects. 🟡 B12 §6.1.
+**A02 ANS = MINIMAL.** Possible trigeminal-vagal pathway (56% of EFT points are on the face = CN V territory). Cortisol reduction observed (Church 2012 ↓24%) but likely from cognitive/exposure component, not somatic. Status: uncertain, listed as MINIMAL due to insufficient evidence that the tapping itself (vs. the cognitive protocol) drives ANS effects. 🟡 B12 §6.1.
 
 **A03-A04-A05 = NONE.** No tissue deformation → no fascial engagement. No sustained pressure or microtrauma → no vascular response. No inflammation → no immune activation. Confident absence. 🟢 B12 §6.1.
 
@@ -450,7 +450,7 @@ Affects: ALL stimulus types, but most dramatically for Sustained Point Pressure
 - **Body (mixed spinal nerves):** Standard somatovisceral reflex. A07 engagement depends on dermatome-organ match.
 - **Foot sole (L4-S3):** NO special pathway. Glabrous skin → NO CT afferents (cannot activate affective touch). Weakest regional pathway access.
 - This modifier is the primary subject of C04 (Location-Specificity-Map). See C04 for full analysis.
-- 🟢 Neuroanatomy (B05 §2.1, B06 §2.1, A07 §3-§4)
+- 🟢 Neuroanatomy (B06 §2.1, A07 §3-§4)
 
 #### §3.2.6 — Skin Contact Barrier
 
@@ -492,8 +492,6 @@ B02 Acupressure          Sustained Point Pressure   —                        S
 B03 Massage-General      General Pressure           —                        Spans full pressure
                                                                               continuum
 B04 Deep Tissue/MFR      Deep Pressure              Horiz. Shear (IASTM)     5 force vectors
-B05 Dien Chan            Sustained Point Pressure   Light Percussion          Facial CN V
-                          (facial)                   (tapping variant)         territory
 B06 Reflexology          Sustained Point Pressure   —                        Foot L4-S3 only
                           (foot)
 B07 Cupping              Negative Pressure          Thermal (moxa-cupping)    Wet adds bloodlet
@@ -519,7 +517,7 @@ B16 Yoga Therapy         Self-Generated Movement    —                        S
   primary active ingredient.
 ```
 
-**Pattern from mapping:** Most therapies (11/16) use a single primary stimulus type. B01 is the most multi-modal (penetration + electrical + thermal variants). B15/B16 use a COMPOSITE stimulus that combines multiple simultaneous sub-components (movement + breathing + attention + balance) under one category.
+**Pattern from mapping:** Most therapies (11/15) use a single primary stimulus type. B01 is the most multi-modal (penetration + electrical + thermal variants). B15/B16 use a COMPOSITE stimulus that combines multiple simultaneous sub-components (movement + breathing + attention + balance) under one category.
 
 ---
 
@@ -546,7 +544,7 @@ Light Percussion           (No dominant system)           Sub-threshold
 Self-Generated Movement    A02 ANS + A08 MTJ             Autonomic-Motor
 ```
 
-**Implication:** STIMULUS TYPE predicts mechanism pathway. Two therapies using the same stimulus type (e.g., B01 and B11 both using penetration) should have similar Track A profiles regardless of their theoretical frameworks. B01 and B11 confirm this: 93.3% anatomical overlap, "Different Entry Point, Same Building" (B11 §5.3). Conversely, therapies using different stimulus types (e.g., B01 penetration vs. B03 general pressure) will have different mechanism profiles even when applied to the same body area. 🟡 Synthesis from all 16 Track B §6 profiles.
+**Implication:** STIMULUS TYPE predicts mechanism pathway. Two therapies using the same stimulus type (e.g., B01 and B11 both using penetration) should have similar Track A profiles regardless of their theoretical frameworks. B01 and B11 confirm this: 93.3% anatomical overlap, "Different Entry Point, Same Building" (B11 §5.3). Conversely, therapies using different stimulus types (e.g., B01 penetration vs. B03 general pressure) will have different mechanism profiles even when applied to the same body area. 🟡 Synthesis from all 15 Track B §6 profiles.
 
 ### §4.2 — Force Direction Typology 🟡
 
@@ -571,7 +569,7 @@ Rapid thrust →→    Joint Thrust          Proprioceptive burst     Velocity a
 
 ### §4.3 — The Mechanical Dominance of Body-Based Therapy 🟢
 
-15 of 16 Track B therapies use MECHANICAL stimulus as their primary input. B08 moxibustion is the ONLY purely thermal therapy.
+14 of 15 Track B therapies use MECHANICAL stimulus as their primary input. B08 moxibustion is the ONLY purely thermal therapy.
 
 This reveals: **mechanotransduction is the dominant signal pathway in body-based therapy.** The cellular machinery for converting mechanical force into biological signals (integrin-FAK-YAP, Piezo1/TRPV4 ion channels, purinergic ATP signaling, collagen winding) is more broadly engaged across therapies than any other signal type.
 
@@ -640,7 +638,7 @@ CT (C-tactile) afferents — the slow-conducting unmyelinated fibers that encode
 ```
 REQUIREMENT                          WHICH THERAPIES MEET IT?
 ──────────────────────────────────── ────────────────────────────────────────────
-(a) Skin-to-skin contact             B01✓ B02✓ B03✓ B04✓ B05✓ B06✓ B07✓ B08-
+(a) Skin-to-skin contact             B01✓ B02✓ B03✓ B04✓ B06✓ B07✓ B08-
                                       B09✓ B10✓ B11✓ B12~  B13✗ B14✓ B15✗ B16✗
 (b) Hairy skin (not glabrous)        Face: partial (forehead/temples ✓, lips ✗)
                                       Foot sole: ✗ (glabrous)
@@ -652,7 +650,7 @@ REQUIREMENT                          WHICH THERAPIES MEET IT?
 
 **Therapies with CONFIRMED CT engagement:** B03 light massage (optimal), B14 craniosacral (hairy scalp, slow), B02 light hold techniques
 **Therapies BLOCKED from CT engagement:** B13 Shiatsu (clothing), B06 foot reflexology (glabrous sole), B15/B16 (self-generated, no external practitioner touch)
-**Therapies with UNCERTAIN CT engagement:** B12 EFT (face but too fast), B05 Dien Chan (face but mostly glabrous areas)
+**Therapies with UNCERTAIN CT engagement:** B12 EFT (face but too fast)
 
 B13's clothing barrier is a measurable mechanistic loss: Shiatsu through clothing → NO CT afferent activation → no oxytocin via CT→PVN pathway. This is a real trade-off between practicality/modesty and affective touch mechanism. 🟢 A01 §3, B13 §5, B06 §2.1.
 
@@ -685,16 +683,12 @@ Four therapies cluster at the BOTTOM of Track A engagement while maintaining som
 THERAPY     PRIMARY        A01  A02  A03  A04  A05  A06  A07  A08  A09  TOTAL
             STIMULUS                                                     ABOVE MOD
 ──────────  ───────────── ──── ──── ──── ──── ──── ──── ──── ──── ──── ────────
-B05 Dien    Pt Pressure   PRI  PRI  MIN  MIN  MNR  MNR  STR  MIN  MNR  3
- Chan       (facial)
 B06 Reflex  Pt Pressure   MOD  MNR  MNR  MNR  MIN  MIN  MNR  MIN  NON  1
             (foot)
 B12 EFT     Light Perc    MIN  MIN  NON  NON  NON  MIN  MIN  NON  MIN  0
 B14 CST     Pt Pressure   MIN  MNR  MIN  NON  NON  MIN  NON  MNR  NON  0
             (ultra-light)
 ```
-
-B05 stands apart from the cluster: facial CN V pathway provides GENUINE neuroanatomical basis (trigeminal → brainstem) making A01+A02 PRIMARY. B05's issue is the 257 BQC point system (unvalidated), not the nerve territory.
 
 B06, B12, B14 share: weakest somatic engagement + unvalidated/contradicted stated mechanisms + clinical effects (when present) likely from non-specific pathways + elaborate theoretical frameworks that serve as SCAFFOLDING (enhance therapeutic context via Evaluative Gates, Human-Predictive-Drive).
 
@@ -848,7 +842,7 @@ Questions RAISED BY the cross-reference analysis that only become visible when c
 
 ### §8.2 — Track B Files Referenced
 
-All 16 Track B files (B01-B16) were referenced, primarily:
+All 15 Track B files were referenced, primarily:
 - **§2 (Stimulation Type):** Physical stimulus classification, parameter ranges, technique variants
 - **§5 (Mechanisms):** Mechanism models used to assign activation levels
 - **§6 (Body System Pathways):** Primary source for activation profile standardization

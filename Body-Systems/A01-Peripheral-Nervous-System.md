@@ -115,7 +115,7 @@ date: 2026-07-28
   │ IV  │ Trochlear         │ Eye movement                              │
   │ V   │ TRIGEMINAL ⭐     │ LARGEST cranial nerve. Sensory: entire     │
   │     │                   │ face + mouth. Motor: mastication.          │
-  │     │                   │ → KEY for diện chẩn, facial reflexology    │
+  │     │                   │ → KEY for facial stimulation therapies                │
   │     │                   │ → Projects to vagal nucleus → parasympathetic│
   │ VI  │ Abducens          │ Eye movement                              │
   │ VII │ FACIAL ⭐         │ Motor: facial muscles. Sensory: taste      │
@@ -136,7 +136,7 @@ date: 2026-07-28
     → 3 branches: V1 (ophthalmic), V2 (maxillary), V3 (mandibular)
     → Trigeminal projects to dorsal motor nucleus of vagus
     → = WHY facial stimulation → parasympathetic activation
-    → = Neuroanatomical basis for diện chẩn (facial reflexology)
+    → = Neuroanatomical basis for facial stimulation therapies
     🟢 Borsook et al. 2004 (trigeminal nociceptive pathways)
 
   ⭐⭐ CN X (Vagus): primary parasympathetic pathway
@@ -749,11 +749,6 @@ date: 2026-07-28
   │                  │ → Axon reflex (deep tissue inflammation)          │
   │                  │ → Trigger point deactivation (motor endplate)    │
   ├──────────────────┼──────────────────────────────────────────────────┤
-  │ Diện chẩn       │ Trigeminal nerve (CN V) — facial sensory          │
-  │ (B05)            │ → V1/V2/V3 → trigeminal nucleus → vagal nucleus │
-  │                  │ → Parasympathetic activation via V→X pathway     │
-  │                  │ → Somatovisceral reflexes (facial dermatome)     │
-  ├──────────────────┼──────────────────────────────────────────────────┤
   │ Cupping          │ Aβ (suction/stretch) → gate control              │
   │ (B07)            │ → C fiber (tissue stress) → axon reflex          │
   │                  │ → Extreme local vasodilation → blood flow ↑       │
@@ -821,7 +816,7 @@ date: 2026-07-28
      Input: Somatic afferent at specific dermatome
      Output: Autonomic modulation of corresponding organ
      Duration: Variable — can be sustained with repeated treatment
-     Therapies: Acupuncture at specific points, acupressure, diện chẩn
+     Therapies: Acupuncture at specific points, acupressure
 
   ⑤ PURINERGIC SIGNALING (local biochemistry)
      Input: Tissue deformation → ATP release from fibroblasts/mast cells
@@ -834,7 +829,6 @@ date: 2026-07-28
      Massage = ①+② (+ CT afferent reward pathway)
      Acupressure = ①+④
      Deep Tissue = ①+②+③ (intense pressure)
-     Diện chẩn = ①+④ (via trigeminal, not spinal)
      Cupping = ①+③
      Gua Sha = ①+③ (shear-specific)                       [RC#5]
      Moxibustion = ③+④
