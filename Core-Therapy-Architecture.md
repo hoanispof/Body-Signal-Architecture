@@ -526,6 +526,11 @@ Limbs:           → PROKR2 supraspinal (if PROKR2+ neurons present)
 Body general:    → standard somatosensory processing
 Foot sole:       → L4-S3 ONLY. No special pathway. No CT afferents.
                    WEAKEST therapeutic access.
+Scalp (Atlas):   → V1/V2/V3 + C2/C3 → trigeminovascular-mediated CBF
+                   modulation. Functions as neuroplasticity PRIMER,
+                   not standalone therapy. Scalp acupuncture +
+                   concurrent rehab >> scalp acupuncture alone
+                   (SUCRA gap: 97.9% vs 17.8% in aphasia).
 ```
 
 This hierarchy explains evidence patterns: B02 P6 acupressure for
@@ -1622,7 +1627,13 @@ architectural needs. 🟡
   from the body side up.
 - **Individual dose-response optimization** — the SINGLE LARGEST gap.
   No therapy has systematic force-response data with individual variation
-  modeling.
+  modeling. ATLAS NOTE: Phase 4 (520 entries) provides initial per-point
+  data showing optimal modality is POINT-SPECIFIC — PC6 modality-independent,
+  SP6 pressure > needle, BL67 moxa-only, HT7 possibly A-beta (De Qi
+  incidental), Wrist-Ankle Acupuncture/Korean Hand Therapy subcutaneous-only.
+  Dose-response cannot be studied
+  as a single curve per therapy; it must be studied per-point-per-mechanism.
+  → AP-Mechanism-Summary §9.1 Discovery 6
 
 ### §6.4 What Body-Signal-Architecture May Get Wrong
 

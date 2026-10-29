@@ -1057,6 +1057,13 @@ Cochrane) but simultaneously the LEAST mechanistically explained.
 This inverts the usual pattern in Track B where mechanism
 understanding exceeds clinical evidence.
 
+**ATLAS STATUS (Phase 4, AP-Mechanism-Summary):** BL67 is the #1
+unsolved question across 520 Atlas entries. 0% segmental contribution.
+4 ⚡ Framework notes (most of any single point). Zero of 19 identified
+mechanism patterns explains BL67→breech. The Thermal-Point Convergence
+Model's L5 prediction (segmental organ reflex) definitively fails here.
+→ AP-Mechanism-Summary §7.1 Gap #1, §9.1 Discovery 3
+
 ### §5.4 What Moxibustion Does NOT Activate
 
 Important negative distinctions from other Track B therapies:

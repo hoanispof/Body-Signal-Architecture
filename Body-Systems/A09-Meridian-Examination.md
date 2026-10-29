@@ -631,8 +631,42 @@ SYSTEMATIC ASSESSMENT OF EACH TRADITIONAL CLAIM:
     → Explains why "sham" acupuncture sometimes works
       (hitting an active neurogenic spot off-standard-map)
 
-  🟡 Synthesis: this convergence-zone model is our framework
-     integration, supported by multiple 🟢 studies
+  ATLAS EXTENSION (AP-Mechanism-Summary, 520 entries analyzed):
+
+    DUAL-AXIS MODEL: convergence alone does not predict clinical
+    importance. A second axis — mechanism specificity — is needed.
+      Clinical importance = convergence breadth × mechanism specificity
+      → ST36, PC6: high on BOTH axes = strongest clinical points
+      → BL67: high specificity, low convergence = still
+        Cochrane-level evidence
+      → Jing-Well: low on BOTH = limited clinical utility
+    These axes are orthogonal — both contribute independently.
+
+    MOLECULAR SPECIFICITY: convergence zones contain point-specific
+    molecular effectors, not just anatomical convergence:
+      → ST36: PROKR2 (causal — Liu 2021 Nature)
+      → GV20: oxytocin (causal — receptor blockade)
+      → PC6: GABA (anti-emetic pathway)
+      → LI11: p47phox (sympathoinhibition)
+      → MS6: 5-HT2AR/KCC2 (motor recovery)
+      → ST36 local: adenosine (Goldman 2010)
+    Specificity extends from anatomy (which nerve) to biochemistry
+    (which molecule). 6 of 19 mechanism patterns have molecular
+    IDs; 13 remain uncharacterized.
+
+    CONVERGENCE ≠ EFFICACY: convergence predicts mechanism CLARITY
+    (how well we understand WHY) but not clinical EFFICACY (WHETHER
+    it works):
+      → BL67: 2/8 convergence, zero mechanism, yet Cochrane-level
+      → Back-Shu: 3-6/8, textbook segmental = highest clarity
+      → Jing-Well: 1-3/8, no mechanism = lowest on both axes
+    → Atlas: AP-Mechanism-Summary §9.1 Discovery 3
+
+  🟡 Synthesis: convergence-zone model is our framework
+     integration, supported by multiple 🟢 studies.
+     Extended by Atlas Phase 4: dual-axis model adds mechanism
+     specificity as second predictor of clinical importance
+     (→ AP-Mechanism-Summary §9.1, §10.1 Revision 2)
 ```
 
 ---
@@ -721,11 +755,20 @@ SYSTEMATIC ASSESSMENT OF EACH TRADITIONAL CLAIM:
     → Abdominal stimulation → segmental sympathetic reflex
     → Same organ, OPPOSITE effects depending on WHERE
 
-  🟡 SYNTHESIS: The non-segmental gap is FILLED by multiple
-  mechanisms operating simultaneously, especially supraspinal
-  integration via PROKR2 pathways. This does NOT require
-  dedicated meridian channels — established neural anatomy
-  with brainstem relay is sufficient.
+  🟡 SYNTHESIS: The non-segmental gap is partially resolved by
+  10+ point-specific pathways identified across 520 Atlas entries:
+    → ST36: PROKR2→vagus→adrenal (anti-inflammatory)
+    → LI4: radial n.→PAG (descending inhibition)
+    → PC6: median n.→NTS→GABA (anti-emetic)
+    → GV20: V1+C2→PVN→oxytocin (anxiolytic)
+    → LI11: radial n.→RVLM→p47phox (cardiovascular)
+  The "gap" is NOT a single missing mechanism but reflects 19
+  distinct mechanism patterns, each at different points using
+  different pathways. Dedicated meridian channels NOT required —
+  established neural anatomy with point-specific brainstem
+  targeting is sufficient.
+  → Atlas: AP-Mechanism-Summary §3.0 (19 patterns), §10.1
+    Revision 3
 ```
 
 ### §3.3 — fMRI Evidence for Meridian Specificity
@@ -785,6 +828,12 @@ SYSTEMATIC ASSESSMENT OF EACH TRADITIONAL CLAIM:
       points < verum = POINT LOCATION MATTERS but effect is
       mainly from needle insertion + context
     → 🟢 Largest individual patient data meta-analysis
+    → ATLAS NOTE: "modest" describes the GENERAL real-sham
+      chronic pain gap, not ALL acupuncture effects. PC6 for
+      PONV = equivalent to ondansetron (pharmaceutical) per
+      Cochrane (Lee & Fan 2009). Point-specific efficacy can
+      exceed the pooled average significantly.
+      → Atlas: AP-Mechanism-Summary §3.0 Pattern 2
 
   ⑦ PARADIGM SHIFT:
     → Field moving from "which region lights up" →

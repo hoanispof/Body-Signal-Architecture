@@ -412,6 +412,15 @@ confidence: 🟢 Research | 🟡 Synthesis | 🔴 Hypothesis
     → = Skin is NOT just a passive entry point — it ACTIVELY
       participates in the therapeutic response
 
+  ATLAS NOTE: A06 covers the LOCAL cutaneous HPA equivalent.
+  Atlas Phase 4 also identifies SYSTEMIC hypothalamic-pituitary
+  pathways accessed through specific acupoints — e.g., SI1 →
+  prolactin via hypothalamic mechanism. This systemic hormonal
+  axis (Pattern 17 in AP-Mechanism-Summary taxonomy, Level 6:
+  Hormonal/Neuroendocrine) is currently NOT represented in any
+  Track A file. A06 may be the natural home for future expansion.
+  → AP-Mechanism-Summary §2.0 Level 6, §3.0 Pattern 17
+
   🟢 Slominski et al. 2000-2024 (body of work on skin neuroendocrine)
 ```
 

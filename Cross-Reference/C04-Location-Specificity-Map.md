@@ -456,8 +456,18 @@ RANK  EVIDENCE TYPE                 CONFIDENCE  STATUS
   2   Segmental convergence          🟢          ESTABLISHED. 130+ years of
       (Head 1893, Sato 1997,                     evidence. Dorsal horn Lamina V
       Dorsher 2009)                              convergence. Back-Shu match 9/12
-                                                 segments (1 in 5 billion). Covers
-                                                 ~60-70% of acupoint effects.
+                                                 segments (1 in 5 billion).
+                                                 REGIONAL RANGE (Atlas Phase 4):
+                                                 segmental contribution = 0-100%
+                                                 by body region, NOT uniform
+                                                 "~60-70%." ~100% paravertebral,
+                                                 30-50% mid-limb, 0% distal
+                                                 limb (ST36/LI4/BL67), N/A
+                                                 head/ear (cranial nerve
+                                                 architecture).
+                                                 "60-70%" = cross-body AVERAGE.
+                                                 → AP-Mechanism-Summary §4.6,
+                                                   §10.1 Revision 1
 
   3   Neurogenic inflammatory spots  🟢          OBJECTIVE. First visible proof
       (Kim 2017)                                 acupoints are real physiological
@@ -585,11 +595,11 @@ The SAME stimulus type produces DIFFERENT effects depending on WHERE on the body
 
 **Neural pathway:** Brachial plexus (C5-T1, upper limb) and lumbosacral plexus (L1-S3, lower limb). Limb acupoints are often DISTAL points — far from the target organ — yet some are among the most effective in clinical evidence (LI4 for facial pain, ST36 for GI function, P6 for nausea).
 
-**The non-segmental paradox:** Limb points DO NOT share spinal segments with many target organs. ST36 (L4-L5) → stomach (T6-T9) = no segmental convergence. This 30-40% non-segmental gap (A07 §8 Q1) is filled by PROKR2 supraspinal pathways (Liu 2020/2021): hindlimb → PROKR2+ neurons → ascending to NTS/DMVN brainstem → vagal output → organ modulation.
+**The non-segmental paradox:** Limb points DO NOT share spinal segments with many target organs. ST36 (L4-L5) → stomach (T6-T9) = no segmental convergence. Atlas Phase 4 (520 entries) partially resolves this gap: 10+ point-specific pathways identified — ST36 via PROKR2→vagus→adrenal (Liu 2021 Nature), LI4 via radial n.→PAG, PC6 via median n.→NTS→GABA, LI11 via radial n.→RVLM→sympathoinhibition. Critically, LI4 and LI11 share the SAME peripheral nerve (radial) but activate DIFFERENT brainstem nuclei — point LOCATION on a nerve determines which central pathway is engaged (within-nerve specificity). The "gap" is not one missing mechanism but 19 distinct mechanism patterns (AP-Mechanism-Summary §3.0, §9.1 Discovery 1).
 
 **Therapies:** B01 (distal point selection = fundamental TCM principle), B02 (self-accessible distal points: LI4, P6, ST36), B11 (extremity muscles as trigger point targets).
 
-**Confidence:** 🟡 — non-segmental limb point effects are real (P6/PONV has Cochrane evidence, ST36 has PROKR2 pathway) but the general mechanism for distal effectiveness is still being mapped. B01 §3.2, A09 §3.2.
+**Confidence:** 🟡 — non-segmental limb point effects have 10+ identified pathways (AP-Mechanism-Summary §3.0), with 2 at causal evidence level (ST36-PROKR2, GV20-oxytocin). No single "general mechanism" — each point uses a different pathway determined by local anatomy. B01 §3.2, A09 §3.2.
 
 #### §3.5.7 — Foot Sole: The Weakest Region
 
@@ -602,6 +612,8 @@ The SAME stimulus type produces DIFFERENT effects depending on WHERE on the body
 4. **Mechanoreceptor function** — foot sole Merkel/Meissner/Pacinian receptors serve BALANCE AND LOCOMOTION, not organ sensing
 
 **The foot reflexology implication:** B06's zone-organ claims fail at every level of the evidence hierarchy. The foot is the WORST possible location for organ-specific therapy. Reflexology effects (anxiety↓, sleep↑) arise from non-specific mechanisms (gate control, relaxation, therapeutic context) that any systematic foot massage would produce equally well — and fMRI confirms this (Descamps 2023: reflexology = sham massage on brain connectivity).
+
+**ATLAS NOTE — organ vs arousal distinction:** Foot sole is weakest for ORGAN-TARGETING (no segmental pathway to most claimed organs) but adequate for AROUSAL-TARGETING. KI1 (Yongquan, plantar surface) uses intensity-dependent nociceptive stimulation → RAS/PAG/LC/NTS brainstem activation for consciousness/emergency effects. This is a non-specific arousal mechanism, not organ-specific therapy. The foot sole hierarchy position (LOWEST) applies to organ-targeting only. → AP-Mechanism-Summary §3.0 Pattern 10, §9.1 Discovery 4
 
 **The body region hierarchy restated:**
 

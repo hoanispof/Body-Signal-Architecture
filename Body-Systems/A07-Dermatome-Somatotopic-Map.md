@@ -269,7 +269,7 @@ date: 2026-07-28
   │ Esophagus        │ T4-T6          │ Retrosternal, back   │
   │ Stomach          │ T6-T9          │ Epigastric region    │
   │ Liver/Gallbladder│ T7-T9, C3-C5  │ Right shoulder, RUQ  │
-  │ Spleen           │ T6-T8          │ Left upper quadrant  │
+  │ Spleen           │ T6-T8 (T6-T11) │ Left upper quadrant  │
   │ Pancreas         │ T6-T9          │ Epigastric, back     │
   │ Small intestine  │ T9-T10         │ Periumbilical        │
   │ Appendix         │ T10            │ Periumbilical → RLQ  │
@@ -282,6 +282,12 @@ date: 2026-07-28
   │ Prostate         │ S2-S4          │ Perineal, sacral     │
   │ Rectum           │ S2-S4          │ Perineal, sacral     │
   └──────────────────┴────────────────┴──────────────────────┘
+
+  Note: Spleen viscerotome T6-T8 = standard (greater splanchnic
+  nerve). Extended range T6-T11 includes lesser splanchnic nerve
+  (T10-T11) contribution. BL20 Back-Shu (Spleen) at T11-T12
+  corresponds to this extended range, not the standard T6-T8.
+  → Atlas: AP-Mechanism-Summary §8.1 Theme A, ⚡ note #20
 
   ⭐ THE CONVERGENCE PRINCIPLE:
     Organ (viscerotome) + Skin (dermatome) + Muscle (myotome)
@@ -1441,8 +1447,14 @@ date: 2026-07-28
     yet its mechanism CANNOT be explained by simple segmental convergence.
     → Candidates: long propriospinal pathways, supraspinal integration,
       fascial connectivity (A03), vagal pathways, endorphin system
-    → Status: MAJOR gap. Segmental model covers ~60-70% of
-      acupoint effects; the rest needs other mechanisms.
+    → Status: PARTIALLY RESOLVED. Atlas Phase 4 (520 entries)
+      identified 10+ point-specific supraspinal pathways:
+      ST36 (PROKR2→vagus→adrenal), LI4 (radial→PAG),
+      PC6 (median→NTS→GABA), GV20 (V1+C2→PVN→oxytocin),
+      LI11 (radial→RVLM). Segmental model = valid for trunk
+      (~100% paravertebral), NOT for distal limb (0%). "60-70%"
+      is a misleading cross-body average of a 0-100% range.
+      → AP-Mechanism-Summary §4.6, §10.1 Revision 1
 
   Q2: PRECISION OF VISCEROTOME MAPPING
     Dermatomes (skin) are mapped with reasonable precision.

@@ -2996,6 +2996,11 @@ to adjacent therapies.
     → Pregnancy: avoid empirically-contraindicated points
       (LI4, SP6, BL60, BL67 — historically linked to labor
       induction). Abdominal/sacral points in late pregnancy.
+      ATLAS NOTE: LI4 pregnancy contraindication is PRECAUTIONARY,
+      not mechanistic. >6,700 women received acupuncture including
+      LI4 during pregnancy with NO adverse obstetric events reported
+      (Smith 2002, Guerreiro da Silva 2004, Kvorning 2006 combined).
+      → AP-Mechanism-Summary §7.1 Gap #5, ⚡ note #6
     → Severe needle phobia (consider laser or Shonishin)
     → Extreme frailty, cachexia, or immunosuppression
     → Metal allergies (rare with stainless steel; consider gold/silver)

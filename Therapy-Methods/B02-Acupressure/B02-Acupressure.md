@@ -696,6 +696,16 @@ date: 2026-07-31
   🟢 ABVN anatomy: well-established neuroanatomy
   🟢 taVNS/NTS activation: fMRI-confirmed (Frangos 2015)
   🟡 Mechanical pressure → ABVN equivalence with electrical: inferred
+
+  ATLAS NOTE (AP-16, ABVN gradient mapping):
+    → taVNS evidence applies to CYMBA CONCHAE specifically
+      (100% ABVN innervation, Peuker & Filler 2002)
+    → Other auricular zones have MIXED or NO ABVN:
+      cavum conchae ~45%, tragus V3+ABVN mixed, antihelix
+      body 73%, crura 9%, lobule/scaphoid fossa 0%
+    → Transferring taVNS evidence to non-cymba auricular
+      points is NOT supported — mixed innervation ≠ pure ABVN
+    → AP-Mechanism-Summary §5.2, AP-16 Auricular ⚡6
 ```
 
 ---
@@ -1500,6 +1510,16 @@ date: 2026-07-31
   │    DMN of vagus → parasympathetic activation. The diving reflex       │
   │    (face immersion → bradycardia) demonstrates this pressure →        │
   │    vagal coupling principle.                                           │
+  │                                                                         │
+  │  ABVN GRADIENT (Atlas AP-16, Peuker & Filler 2002):                   │
+  │    Cymba conchae: 100% ABVN → strongest vagal access                 │
+  │    Cavum conchae: ~45% ABVN (mixed with V3)                          │
+  │    Antihelix body: 73% (partial vagal)                                │
+  │    Tragus: V3 + ABVN mixed                                           │
+  │    Antihelix crura: 9% (minimal vagal)                               │
+  │    Lobule / scaphoid fossa: 0% ABVN (pure C2-C3 GAN)               │
+  │  → Mixed innervation ≠ pure ABVN. Zone determines mechanism.        │
+  │  → AP-Mechanism-Summary §5.2, AP-16 ⚡6                              │
   │                                                                         │
   │  🟢 ABVN anatomy: well-established neuroanatomy                       │
   │  🟢 taVNS/NTS activation: fMRI-confirmed (Frangos 2015)              │
@@ -2564,6 +2584,13 @@ date: 2026-07-31
     direct head-to-head study.
     → Resolution requires: multi-arm RCT: needle vs pressure vs sham
       vs no treatment at identical points for a single condition
+    → ATLAS NOTE: SP6 is one of 5 modality-effect relationships
+      documented across 520 entries. Optimal modality is POINT-SPECIFIC,
+      not universal: PC6 modality-independent, SP6 pressure > needle,
+      BL67 moxa-only, HT7 possibly A-beta (De Qi incidental),
+      Wrist-Ankle Acupuncture/Korean Hand Therapy
+      subcutaneous-only.
+      → AP-Mechanism-Summary §9.1 Discovery 6
 
   Q7. AURICULAR PRESSURE vs ELECTRICAL EQUIVALENCE
     taVNS (electrical at concha) has fMRI-confirmed NTS activation.

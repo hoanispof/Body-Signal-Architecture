@@ -281,6 +281,26 @@ traditions. Their neural pathway hierarchy explains outcome differences:
   map UNSUPPORTED → effects arise from non-specific mechanisms only
 🟢/🟡
 
+**ATLAS EXTENSION — Cranial Nerve Architecture as Distinct Pathway Class:**
+Atlas Phase 4 (520 entries) identifies that ~33% of acupoint entries operate
+through cranial nerve architecture with DIRECT brainstem access, bypassing
+the spinal cord entirely. This constitutes a fundamentally different pathway
+class from the spinal-based architecture assumed for body acupoints:
+
+- **Pattern 1 — Dual cranial (V1+C2):** GV20 → V1 ophthalmic + C2 cervical
+  → PVN → oxytocin release. Causal evidence (receptor blockade).
+- **Pattern 2 — Pure V1:** Yintang → V1 → trigeminal nuclear complex →
+  brainstem autonomic centers. Single cranial nerve pathway.
+- **Pattern 3 — Triple + vagal (ABVN+V3+C2-C3):** Auricular points → up to
+  3 cranial/cervical nerve sources simultaneously → NTS (vagal) + brainstem
+  nuclei. Broadest indication repertoire correlates with highest nerve
+  convergence (Ear Shen Men = 3 sources → 6/6 clinical systems).
+
+These three patterns are NOT variations of spinal somatovisceral reflex but
+a separate architectural class: cranial nerve → brainstem direct, with no
+dorsal horn convergence involved.
+→ Atlas: AP-Mechanism-Summary §5.0, §9.1 Discovery 4, §10.1 Revision 4
+
 ### §2.3 Timing — Speed Gradient
 
 The 9 systems operate at different speeds. A single therapy session activates
